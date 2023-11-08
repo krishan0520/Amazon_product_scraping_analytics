@@ -1,0 +1,554 @@
+[
+    {
+        "Brand": "LG",
+        "Title": "LG UltraPC 16U70R-K.AAS7U1 Thin and Lightweight Laptop,Gray",
+        "Intialprice": "$999.99",
+        "SellingPrice": "$699.99",
+        "Reviews": "5",
+        "Rating": "4.7 out of 5 stars"
+    },
+    {
+        "Brand": "LG",
+        "Title": "LG Gram 15Z95P Laptop 15.6\" Ultra-Lightweight, IPS, FHD (1920 x 1080), Intel CORE i7, 16GB RAM, 512GB SSD, Windows 11 Home, 80Wh Battery, Alexa Built-in, 2X USB-C, HDMI, USB-A \u2013 Black",
+        "Intialprice": "N/A",
+        "SellingPrice": "$1,129.00",
+        "Reviews": "",
+        "Rating": "4.7 out of 5 stars"
+    },
+    {
+        "Brand": "LG",
+        "Title": "LG gram 16\u201d 2in1 Lightweight Laptop, Intel 13th Gen Core i7 Evo Platform, Windows 11 Home, 16GB RAM, 512GB SSD, Black",
+        "Intialprice": "$1,249.97",
+        "SellingPrice": "$999.99",
+        "Reviews": "21",
+        "Rating": "4.7 out of 5 stars"
+    },
+    {
+        "Brand": "LG",
+        "Title": "LG gram 16\u201d Lightweight Laptop, Intel 13th Gen Core i7 Evo Platform, Windows 11 Home, 32GB RAM, 2TB SSD, Black",
+        "Intialprice": "$1,596.99",
+        "SellingPrice": "$1,399.00",
+        "Reviews": "22",
+        "Rating": "4.7 out of 5 stars"
+    },
+    {
+        "Brand": "LG",
+        "Title": "LG Gram 16Z90P Laptop 16\" IPS Ultra-Lightweight, (2560 x 1600), Intel Evo 11th gen Core i7, 16GB RAM, 1TB SSD, Windows 11 Upgradeable, Alexa Built-in, 2X USB-C, HDMI, USB-A - Black",
+        "Intialprice": "N/A",
+        "SellingPrice": "$1,169.00",
+        "Reviews": "57",
+        "Rating": "4.7 out of 5 stars"
+    },
+    {
+        "Brand": "LG",
+        "Title": "LG gram (2022) Laptop 15Z90Q 15.6\" Touchscreen, Intel 12th Gen Core i7, 16GB RAM, 512GB SSD, Windows 11, Gray",
+        "Intialprice": "N/A",
+        "SellingPrice": "$997.49",
+        "Reviews": "51",
+        "Rating": "4.7 out of 5 stars"
+    },
+    {
+        "Brand": "LG",
+        "Title": "LG gram (2022) 17Z90Q Ultra Lightweight Laptop, 17\" (2560 x 1600) IPS Display, Intel Evo 12th Gen i7 1260P Processor, 32GB LPDDR5, 2TB NVMe SSD, FHD Webcam, WiFi 6E, Thunderbolt 4, Windows 11, Black",
+        "Intialprice": "$2,099.99",
+        "SellingPrice": "$1,299.00",
+        "Reviews": "23",
+        "Rating": "4.7 out of 5 stars"
+    },
+    {
+        "Brand": "LG",
+        "Title": "LG gram (2022) Laptop 16T90Q 2-in-1 16\" Touchscreen, Intel Evo 12th Gen Core i5, 16GB RAM, 512GB SSD, Windows 11, Green",
+        "Intialprice": "$849.99",
+        "SellingPrice": "$807.87",
+        "Reviews": "90",
+        "Rating": "4.7 out of 5 stars"
+    },
+    {
+        "Brand": "LG",
+        "Title": "LG gram (2022) Laptop 16Z90Q 16\" Display, Intel Evo 12th Gen Core i7, 16GB RAM, 256 GB SSD, Windows 11, Black",
+        "Intialprice": "$1,199.99",
+        "SellingPrice": "$899.99",
+        "Reviews": "61",
+        "Rating": "4.7 out of 5 stars"
+    },
+    {
+        "Brand": "LG",
+        "Title": "LG gram (2022) 17Z90Q Ultra Lightweight Laptop, 17\" (2560 x 1600) IPS Display, Intel Evo 12th Gen i7 1260P Processor, 32GB LPDDR5, 2TB NVMe SSD, FHD Webcam, WiFi 6E, Thunderbolt 4, Windows 11, Gray",
+        "Intialprice": "$2,099.99",
+        "SellingPrice": "$1,947.03",
+        "Reviews": "23",
+        "Rating": "4.7 out of 5 stars"
+    },
+    {
+        "Brand": "LG",
+        "Title": "LG Gram 17Z95P-K Laptop 17\u201d IPS WQXGA Intel Evo Platform Core i7-1195G7, 16GB Memory, 512GB M.2 NVMe SSD, Intel Iris Xe Graphics, Wi-Fi 6, Windows 11 Home, Backlit Keyboard, Fingerprint ID, Black",
+        "Intialprice": "N/A",
+        "SellingPrice": "$1,019.97",
+        "Reviews": "15",
+        "Rating": "4.7 out of 5 stars"
+    },
+    {
+        "Brand": "LG",
+        "Title": "LG gram 17\u201d Lightweight Laptop, Intel 13th Gen Core i7 Evo Platform, Windows 11 Home, 16GB RAM, 1TB SSD, Black",
+        "Intialprice": "$1,799.99",
+        "SellingPrice": "$1,334.97",
+        "Reviews": "12",
+        "Rating": "4.7 out of 5 stars"
+    },
+    {
+        "Brand": "LG",
+        "Title": "LG Gram 17Z95P Laptop 17\" Ultra-Lightweight, IPS, (2560 x 1600), Intel Evo 11th gen CORE i7, 16GB RAM, 1TB SSD, Windows 11 Home, 80Wh Battery, Alexa Built-in, 2X USB-C, HDMI, USB-A \u2013 Black",
+        "Intialprice": "N/A",
+        "SellingPrice": "$999.99",
+        "Reviews": "73",
+        "Rating": "4.7 out of 5 stars"
+    },
+    {
+        "Brand": "LG",
+        "Title": "LG gram 15.6\u201d Lightweight Laptop, Intel 13th Gen Core i7, Windows 11 Home, 32GB RAM, 1TB SSD, Gray",
+        "Intialprice": "$1,799.99",
+        "SellingPrice": "$1,396.99",
+        "Reviews": "18",
+        "Rating": "4.7 out of 5 stars"
+    },
+    {
+        "Brand": "LG",
+        "Title": "LG Electronics GP60NS50 USB 3.0 Compatible, Super-Multi Ultra Slim Portable DVD+/-RW External Drive for PC Windows, Linux, Mac OS, Surface Pro 3&4, with M-DISC support, Silver",
+        "Intialprice": "N/A",
+        "SellingPrice": "$29.99",
+        "Reviews": "5,530",
+        "Rating": "4.7 out of 5 stars"
+    },
+    {
+        "Brand": "LG",
+        "Title": "LG gram 14\u201d Lightweight Laptop, Intel 13th Gen Core i5 Evo Platform, Windows 11 Home, 8GB RAM, 512GB SSD, White",
+        "Intialprice": "$1,096.99",
+        "SellingPrice": "$896.99",
+        "Reviews": "10",
+        "Rating": "4.7 out of 5 stars"
+    },
+    {
+        "Brand": "LG",
+        "Title": "LG 2023 Gram 16\" 2-in-1 Ultralight Laptop WQXGA IPS Touch Intel EVO i7-1360P 32GB RAM 1TB(512x2) NVMe SSD Iris Xe Graphics WiFi AX Backlit Fingerprint Fullday Battery Windows 11 Pro w/Pen and RE USB",
+        "Intialprice": "N/A",
+        "SellingPrice": "N/A",
+        "Reviews": "94",
+        "Rating": "4.7 out of 5 stars"
+    },
+    {
+        "Brand": "LG",
+        "Title": "LG Gram 16 2-in-1 Laptop 2023 16\" WQXGA IPS Touchscreen 12-Core Intel i7-1360P 32GB LPDDR5 4TB SSD Intel Iris Xe Graphics Thunderbolt 4 Wi-Fi 6E Backlit KB Fingerprint Win 11 Pro Pen w/ONT 32GB USB",
+        "Intialprice": "N/A",
+        "SellingPrice": "$2,019.00",
+        "Reviews": "1",
+        "Rating": "4.7 out of 5 stars"
+    },
+    {
+        "Brand": "LG",
+        "Title": "LG GP65NB60 8X USB 2.0 Super Multi Ultra Slim Portable DVD Writer Drive +/-RW External Drive with M-DISC Support - Black",
+        "Intialprice": "$29.99",
+        "SellingPrice": "$24.99",
+        "Reviews": "13,356",
+        "Rating": "4.7 out of 5 stars"
+    },
+    {
+        "Brand": "LG",
+        "Title": "LG Gram 17\" 16:10 WQXGA (2560 x 1600) Slim Laptop, Evo 12-Core i7-1360P, 4266Mhz-16GB, 2X Thunderbolt4, Backlit KB, DCI-P3 99%, Wi-Fi 6E, Windows11 Home. w/HDMI (16GB LPDDR4X RAM | 1TB SSD)",
+        "Intialprice": "N/A",
+        "SellingPrice": "$1,299.99",
+        "Reviews": "2",
+        "Rating": "4.7 out of 5 stars"
+    },
+    {
+        "Brand": "LG",
+        "Title": "LG Gram 17Z95P Laptop 17\" Ultra-Lightweight, IPS, (2560 x 1600), Intel Evo 11th gen CORE i7, 16GB RAM, 2TB SSD, Windows 11 Home, 80Wh Battery, Alexa Built-in, 2X USB-C, HDMI, USB-A \u2013 Silver",
+        "Intialprice": "$1,949.99",
+        "SellingPrice": "$1,700.00",
+        "Reviews": "16",
+        "Rating": "4.7 out of 5 stars"
+    },
+    {
+        "Brand": "LG",
+        "Title": "LG gram (2022) Laptop 14T90Q 2-in-1 14\" Touchscreen, Intel Evo 12th Gen Core i5, 16GB RAM, 512GB SSD, Windows 11, Black",
+        "Intialprice": "N/A",
+        "SellingPrice": "$1,299.99",
+        "Reviews": "28",
+        "Rating": "4.7 out of 5 stars"
+    },
+    {
+        "Brand": "LG",
+        "Title": "LG gram (2022) 14Z90Q Ultra Lightweight Laptop, 14\" (1920x1200) IPS Display, Intel Evo 12th Gen i5 1240P Processor, 8GB LPDDR5, 512GB NVMe SSD, FHD Webcam, WiFi 6E, Thunderbolt 4, Windows11, White",
+        "Intialprice": "N/A",
+        "SellingPrice": "$999.99",
+        "Reviews": "51",
+        "Rating": "4.7 out of 5 stars"
+    },
+    {
+        "Brand": "LG",
+        "Title": "LG Gram 14Z90P Laptop 14\" Ultra-Lightweight, (1920 x 1200), Intel Evo 11th gen CORE i7, 16GB RAM, 512GB SSD, Windows 11 Home, 72 Wh Battery, Alexa Built-in, 2X USB-C, HDMI, USB-A - Black",
+        "Intialprice": "$25.54",
+        "SellingPrice": "$899.00",
+        "Reviews": "8",
+        "Rating": "4.7 out of 5 stars"
+    },
+    {
+        "Brand": "LG",
+        "Title": "LG 16MR70.ASDU1 16\u201d Gram +View IPS Protable Monitor, Silver",
+        "Intialprice": "N/A",
+        "SellingPrice": "$349.99",
+        "Reviews": "150",
+        "Rating": "4.3 out of 5 stars"
+    },
+    {
+        "Brand": "LG",
+        "Title": "LG gram 17\u201d Lightweight Laptop, Intel\u00ae 12th Gen Core\u00ae i7 Evo\u2122 Platform, Windows 11 Home, 16GB RAM, 512GB SSD, Gray",
+        "Intialprice": "N/A",
+        "SellingPrice": "$994.98",
+        "Reviews": "51",
+        "Rating": "4.3 out of 5 stars"
+    },
+    {
+        "Brand": "LG",
+        "Title": "LG PHILIPS LP173WD1(TL)(C3) LAPTOP LCD SCREEN 17.3\" WXGA++ LED DIODE (or Compatible SUBSTITUTE REPLACEMENT LCD SCREEN)",
+        "Intialprice": "$67.38",
+        "SellingPrice": "$63.70",
+        "Reviews": "111",
+        "Rating": "4.3 out of 5 stars"
+    },
+    {
+        "Brand": "LG",
+        "Title": "LG PHILIPS LP156WH2(TL)(AC) / LP156WH2-TLAC LAPTOP LCD SCREEN 15.6\" WXGA HD LED DIODE (or Compatible REPLACEMENT LCD SCREEN)",
+        "Intialprice": "N/A",
+        "SellingPrice": "$55.11",
+        "Reviews": "13",
+        "Rating": "4.3 out of 5 stars"
+    },
+    {
+        "Brand": "LG",
+        "Title": "LG Gram 17 2023 Business Laptop - Intel Evo 13th Gen i7-1360P - Windows11 Pro - 17inch WQXGA IPS Display DCI-P3 99% - Backlit Keyboard - Thunderbolt4 - Wi-Fi 6E - HDMI Cable (16GB RAM |2TB SSD)",
+        "Intialprice": "N/A",
+        "SellingPrice": "$1,419.99",
+        "Reviews": "$1,419\n99",
+        "Rating": "4.3 out of 5 stars"
+    },
+    {
+        "Brand": "LG",
+        "Title": "LG 2023 Gram 16 Pro 16\u201d WQXGA IPS Ultra Laptop 12-Core Intel EVO i7-1360P NVIDIA GeForce RTX 3050 4GB GDDR6 32GB LPDDR5 4TB NVMe SSD 2xThunderbolt4 WiFi 6E HDMI Backlit KB Windows 11 Pro w/RE USB",
+        "Intialprice": "N/A",
+        "SellingPrice": "N/A",
+        "Reviews": "",
+        "Rating": "1.0 out of 5 stars"
+    },
+    {
+        "Brand": "LG",
+        "Title": "LG Gram 17 2023 Ultra Light Laptop 17\" WQXGA IPS 12-Core 13th Intel Core i7-1360P 32GB RAM 1TB SSD Iris Xe Graphics Thunderbolt 4 Wi-Fi 6E Backlit KB Fingerprint Windows 11 Pro w/ONT 32GB USB",
+        "Intialprice": "N/A",
+        "SellingPrice": "N/A",
+        "Reviews": "1",
+        "Rating": "1.0 out of 5 stars"
+    },
+    {
+        "Brand": "LG",
+        "Title": "LG 16T90Q-K.APB7U1 16'' 2-in-1 16:10 WQXGA Touch IPS Gram Laptop with Windows 11 Pro, 16GB LPDDR5, & 1TB Dual SSD Slots",
+        "Intialprice": "N/A",
+        "SellingPrice": "$1,366.60",
+        "Reviews": "$1,366\n60",
+        "Rating": "1.0 out of 5 stars"
+    },
+    {
+        "Brand": "LG",
+        "Title": "LG Gram 16 2-in-1 Laptop, Intel 4-Core i7-1165G7, 16\" WQXGA IPS Touchscreen, Intel Iris Xe Graphics, 16GB LPDDR4 1TB SSD, Backlit Keyboard, Fingerprint, Thunderbolt 4, Wi-Fi 6, Win10 Pro",
+        "Intialprice": "N/A",
+        "SellingPrice": "N/A",
+        "Reviews": "",
+        "Rating": "1.0 out of 5 stars"
+    },
+    {
+        "Brand": "LG",
+        "Title": "LG Gram Ultralight Laptop 2023, 14\" WUXGA IPS, Intel i7-1260P 12-Core, 16GB RAM, 512GB SSD, Iris Xe Graphics, Fingerprint, Backlit Keyboard, WiFi 6E, Thunderbolt 4, Windows 10 Pro, COU 32GB USB",
+        "Intialprice": "N/A",
+        "SellingPrice": "N/A",
+        "Reviews": "",
+        "Rating": "1.0 out of 5 stars"
+    },
+    {
+        "Brand": "LG",
+        "Title": "LG 14Z90R-N.APC5U1 14'' Gram Laptop with Windows 11 Pro, 13th Gen Intel\u00ae Core\u2122 i5 Processors, with 512 GB Hard Drive & 8 GB LPDDR5 RAM",
+        "Intialprice": "N/A",
+        "SellingPrice": "$859.99",
+        "Reviews": "$859\n99",
+        "Rating": "3.8 out of 5 stars"
+    },
+    {
+        "Brand": "LG",
+        "Title": "LG Ultra PC 13U70P - 13\" Full HD (1920x1080) IPS Ultra-Lightweight Laptop, Ryzen 7 4700U CPU, AMD Radeon Graphics, 16GB RAM, 256GB SSD, 14.5 Hours Battery, White - 2021",
+        "Intialprice": "N/A",
+        "SellingPrice": "N/A",
+        "Reviews": "25",
+        "Rating": "3.8 out of 5 stars"
+    },
+    {
+        "Brand": "LG",
+        "Title": "LG 15Z90R-N.APC3U1 15'' Gram Laptop with Windows 11 Pro, 13th Gen Intel\u00ae Core\u2122 i5 Processors, with 256 GB Hard Drive & 8 GB LPDDR5 RAM",
+        "Intialprice": "N/A",
+        "SellingPrice": "$659.13",
+        "Reviews": "$659\n13",
+        "Rating": "3.8 out of 5 stars"
+    },
+    {
+        "Brand": "LG",
+        "Title": "LG gram 16\u201d 2in1 Lightweight Laptop, Intel\u00ae 12th Gen Core\u00ae i7 Evo\u2122 Platform, Windows 11 Home, 16GB RAM, 512GB SSD, Black",
+        "Intialprice": "N/A",
+        "SellingPrice": "$1,299.99",
+        "Reviews": "14",
+        "Rating": "3.8 out of 5 stars"
+    },
+    {
+        "Brand": "LG",
+        "Title": "LG 2022 Ultra Laptop 13.3\" FHD 1920 x 1080 LED-Backlit AMD Ryzen 5 4500U 6-Core 8GB DDR4 1TB SSD Wi-Fi 6 Windows 11 Home Bluetooth 5.1 Backlit Keyboard 720p HD Camera HD Audio",
+        "Intialprice": "N/A",
+        "SellingPrice": "N/A",
+        "Reviews": "",
+        "Rating": "3.8 out of 5 stars"
+    },
+    {
+        "Brand": "LG",
+        "Title": "FOR LG LP156WH2(TL)(AC) A+ Glossy WXGA++ 15.6\" Inches Laptop LCD LED Screen (SUBSTITUTE REPLACEMENT LCD SCREEN ONLY. NOT A LAPTOP)",
+        "Intialprice": "$59.72",
+        "SellingPrice": "$55.11",
+        "Reviews": "20",
+        "Rating": "4.3 out of 5 stars"
+    },
+    {
+        "Brand": "LG",
+        "Title": "LG 2022 Gram Ultralight Laptop 16\" WQXGA IPS 12th Intel Core i7-1260P 12-Core 16GB LPDDR5 1TB (512x2) NVMe SSD Iris Xe Graphics Backlit Fingerprint KB WiFi 6E Thunderbolt 4 Windows 10 Pro w/ 32GB USB",
+        "Intialprice": "N/A",
+        "SellingPrice": "N/A",
+        "Reviews": "",
+        "Rating": "4.3 out of 5 stars"
+    },
+    {
+        "Brand": "LG",
+        "Title": "LG gram 17\u201d Lightweight Laptop, Intel 13th Gen Core i7 Evo Platform, Windows 11 Home, NVIDIA RTX3050 4GB GPU, 16GB RAM, 1TB SSD, Black",
+        "Intialprice": "$1,999.99",
+        "SellingPrice": "$1,661.00",
+        "Reviews": "14",
+        "Rating": "4.3 out of 5 stars"
+    },
+    {
+        "Brand": "LG",
+        "Title": "LG Electronics LG BDXL Drive - External, PC, usb, Black (WP50NB40)",
+        "Intialprice": "N/A",
+        "SellingPrice": "$89.99",
+        "Reviews": "1,067",
+        "Rating": "4.3 out of 5 stars"
+    },
+    {
+        "Brand": "LG",
+        "Title": "LG 15Z90R-Q.APB5U1 15'' Gram Laptop with Windows 11 Pro, 13th Gen Intel\u00ae Core\u2122 i5 Processors, with 512 GB Hard Drive & 8 GB LPDDR5 RAM, Obsidian Black",
+        "Intialprice": "N/A",
+        "SellingPrice": "$1,229.15",
+        "Reviews": "1",
+        "Rating": "4.3 out of 5 stars"
+    },
+    {
+        "Brand": "LG",
+        "Title": "LG 2022 Laptop | Gram 17Z95P | 17\" 2560 x 1600 LED-Backlit | Intel Core i7-1195G7 4-Core | 16GB LPDDR4 | 1TB SSD | Windows 11 Pro | Wi-Fi 6 - Bluetooth 5.1 - Backlit Keyboard - 720p HD Camera - Black",
+        "Intialprice": "N/A",
+        "SellingPrice": "$1,349.00",
+        "Reviews": "$1,349\n00",
+        "Rating": "4.2 out of 5 stars"
+    },
+    {
+        "Brand": "LG",
+        "Title": "LG 2022 Gram Ultralight Laptop - Full Day Battery - 15.6\" FHD IPS - Intel 11th i5-1135G7-16GB LPDDR4-512GB NVMe SSD - Iris Xe Graphics - Backlit Keyboard RJ-45 Win 10 Pro w/RATZK 32GB USB",
+        "Intialprice": "N/A",
+        "SellingPrice": "N/A",
+        "Reviews": "",
+        "Rating": "4.2 out of 5 stars"
+    },
+    {
+        "Brand": "LG",
+        "Title": "LG 17Z90R-N.APC5U1 17'' Gram Laptop with Windows 11 Pro, 13th Gen Intel\u00ae Core\u2122 i7 Processors, Intel vPro\u00ae with 512 GB Hard Drive & 8 GB LPDDR5 RAM",
+        "Intialprice": "N/A",
+        "SellingPrice": "$1,195.99",
+        "Reviews": "$1,195\n99",
+        "Rating": "4.2 out of 5 stars"
+    },
+    {
+        "Brand": "LG",
+        "Title": "LG 16U70Q-N.APC5U1 16\" UltraPC Laptop",
+        "Intialprice": "N/A",
+        "SellingPrice": "$821.85",
+        "Reviews": "$821\n85",
+        "Rating": "4.2 out of 5 stars"
+    },
+    {
+        "Brand": "LG",
+        "Title": "LG PHILIPS LP140WH1(TL)(C6) / LP140WH1-TLC6 LAPTOP LCD SCREEN 14.0\" WXGA HD LED (or compatible model)",
+        "Intialprice": "N/A",
+        "SellingPrice": "$42.92",
+        "Reviews": "31",
+        "Rating": "4.2 out of 5 stars"
+    },
+    {
+        "Brand": "LG",
+        "Title": "LG LCD Laptop 13\" Full (1920 x 1080) IPS Display, AMD Ryzen 5 4500U, 8GH Ram, 256GB SSD, DTS:X Ultra, HD Webcam",
+        "Intialprice": "N/A",
+        "SellingPrice": "N/A",
+        "Reviews": "11",
+        "Rating": "4.0 out of 5 stars"
+    },
+    {
+        "Brand": "LG",
+        "Title": "LG FHD 32-Inch Computer Monitor 32ML600M-B, IPS with HDR 10 Compatibility, Black",
+        "Intialprice": "$199.99",
+        "SellingPrice": "$169.99",
+        "Reviews": "2,959",
+        "Rating": "4.0 out of 5 stars"
+    },
+    {
+        "Brand": "LG",
+        "Title": "LG Gram 16 Pro 16Z90R-A Laptop 2023 New, 16\" WQXGA IPS, Intel i7-1360P 12-Core, NVIDIA GeForce RTX 3050, 32GB LPDDR5, 3TB SSD, Backlit Keyboard, Thunderbolt 4, Wi-Fi 6E, Win11 Home, COU 32GB USB",
+        "Intialprice": "N/A",
+        "SellingPrice": "N/A",
+        "Reviews": "",
+        "Rating": "4.0 out of 5 stars"
+    },
+    {
+        "Brand": "LG",
+        "Title": "LG 2022 Gram Ultralight Laptop Full Day Battery 15.6\" FHD IPS Touchscreen Intel 12th i7-1260P 16GB LPDDR5 1TB NVMe SSD Iris Xe Graphics Backlit KB w/FP WiFi 6E Thunderbolt 4 Windows 11 Pro",
+        "Intialprice": "N/A",
+        "SellingPrice": "N/A",
+        "Reviews": "",
+        "Rating": "4.0 out of 5 stars"
+    },
+    {
+        "Brand": "LG",
+        "Title": "LG 2023 16T90R-K Laptop 16\" 2560 x 1600 LED-Backlit 13th Generation Intel Core i7-1360P 12-Core 32GB LPDDR5 1TB SSD Wi-Fi 6E Windows 11 Home Backlit Keyboard Face Recognition Camera Touch Screen",
+        "Intialprice": "N/A",
+        "SellingPrice": "N/A",
+        "Reviews": "",
+        "Rating": "4.0 out of 5 stars"
+    },
+    {
+        "Brand": "LG",
+        "Title": "LG Gram 17\" WQXGA (2560x1600) IPS Lightweight Laptop 2023 | Intel i7-1360P 12-Core | Intel Iris Xe Graphics | Backlit Keyboard | Fingerprint | Thunderbolt 4 | WiFi 6E | 32GB DDR4 1TB SSD | Win11 Pro",
+        "Intialprice": "N/A",
+        "SellingPrice": "N/A",
+        "Reviews": "",
+        "Rating": "3.7 out of 5 stars"
+    },
+    {
+        "Brand": "LG",
+        "Title": "LG Gram 16\" WQXGA (2560x1600) IPS Laptop | Intel i7-1165G7 4-Core | Intel Iris Xe Graphics | Backlit Keyboard | Fingerprint | Thunderbolt 4 | HDMI 2.0 | WiFi 6 | 16GB LPDDR4 256GB SSD | Win11 Home",
+        "Intialprice": "N/A",
+        "SellingPrice": "$1,449.00",
+        "Reviews": "$1,449\n00",
+        "Rating": "3.7 out of 5 stars"
+    },
+    {
+        "Brand": "LG",
+        "Title": "LG LP173WD1(TL)(C3) Replacement Screen for Laptop LED HDplus Glossy",
+        "Intialprice": "N/A",
+        "SellingPrice": "$57.46",
+        "Reviews": "4",
+        "Rating": "3.7 out of 5 stars"
+    },
+    {
+        "Brand": "LG",
+        "Title": "LG Gram 16T90Q Laptop 2022 16\u201d WQXGA 2560 x 1600 Display Touchscrenn, Intel Core i7-1260P, 12-core, Intel Iris Xe Graphics, 16GB LPDDR5, 512GB SSD, Backlit Keyboard, Thunderbolt 4, Windows 11 Pro",
+        "Intialprice": "N/A",
+        "SellingPrice": "N/A",
+        "Reviews": "",
+        "Rating": "3.7 out of 5 stars"
+    },
+    {
+        "Brand": "LG",
+        "Title": "LG 15.6\" FHD IPS Touchscreen Gram Ultralight Laptop, Intel 12th i7-1260P, 16GB LPDDR5 1.5TB NVMe SSD, Iris Xe Graphics, WiFi 6E, Thunderbolt 4, Backlit Keyboard, Fingerprint, Win11 Pro (Renewed)",
+        "Intialprice": "N/A",
+        "SellingPrice": "N/A",
+        "Reviews": "N/A",
+        "Rating": "3.7 out of 5 stars"
+    },
+    {
+        "Brand": "LG",
+        "Title": "LG 2022 Laptop | Gram | 17\" 2560 x 1600 LED-Backlit | Intel Core i7-1260P 12-Core | 16GB LPDDR5 | 4TB SSD | Windows 11 Pro | Wi-Fi 6E - Bluetooth 5.1 - Backlit Keyboard - 1080p FHD Camera - Gray",
+        "Intialprice": "N/A",
+        "SellingPrice": "$1,809.00",
+        "Reviews": "$1,809\n00",
+        "Rating": "4.3 out of 5 stars"
+    },
+    {
+        "Brand": "LG",
+        "Title": "LG 2022 Laptop | Gram 16 2-in-1 | 16\" 2560 x 1600 Touchscreen LED-Backlit | Intel Core i7-1165G7 4-Core | 16GB LPDDR4 | 4TB SSD | Windows 11 Home | Backlit Keyboard - 720p HD Camera - Black",
+        "Intialprice": "N/A",
+        "SellingPrice": "$1,659.00",
+        "Reviews": "$1,659\n00",
+        "Rating": "4.3 out of 5 stars"
+    },
+    {
+        "Brand": "LG",
+        "Title": "LG 2022 Gram Laptop 16\" 2560 x 1600 LED-Backlit 12th Generation Intel Core i7-1260P 12-Core 16GB LPDDR5 512GB SSD Wi-Fi 6E Windows 11 Pro Bluetooth 5.1 Backlit Keyboard FHD Camera Touch Screen",
+        "Intialprice": "N/A",
+        "SellingPrice": "N/A",
+        "Reviews": "",
+        "Rating": "4.3 out of 5 stars"
+    },
+    {
+        "Brand": "LG",
+        "Title": "LG 2022 Gram 16 Laptop 16\" WQXGA 2560 x 1600 LED-Backlit 11th Generation Intel Core i7-1165G7 4-Core 16 GB LPDDR4 512GB SSD Windows 10 Home Backlit Keyboard Touch Screen Thunderbolt 4",
+        "Intialprice": "N/A",
+        "SellingPrice": "$1,299.00",
+        "Reviews": "$1,299\n00",
+        "Rating": "4.3 out of 5 stars"
+    },
+    {
+        "Brand": "LG",
+        "Title": "LG Gram 16Z90P Laptop 16\" IPS Ultra-Lightweight, (2560 x 1600), Intel Evo 11th gen Core i7, 16GB RAM, 1TB SSD, Upgradeable Windows 10 Home, Alexa Built-in, 2X USB-C, HDMI, USB-A - Silver",
+        "Intialprice": "N/A",
+        "SellingPrice": "N/A",
+        "Reviews": "73",
+        "Rating": "4.3 out of 5 stars"
+    },
+    {
+        "Brand": "LG",
+        "Title": "LG Gram Ultralight Laptop 2022, Full Day Battery, 15.6\" FHD IPS Touchscreen, Intel 12th i7-1260P, 16GB LPDDR5 1TB SSD, Iris Xe Graphics, Backlit KB, WiFi 6E, Thunderbolt 4, Windows 11",
+        "Intialprice": "N/A",
+        "SellingPrice": "N/A",
+        "Reviews": "",
+        "Rating": "4.1 out of 5 stars"
+    },
+    {
+        "Brand": "LG",
+        "Title": "LG Gram 16 2-in-1 Laptop 2022, 16\" WQXGA IPS Touchscreen, Intel i7-1165G7 4-Core, Iris Xe Graphics, 16GB LPDDR4, 512GB SSD, Backlit KB, Thunderbolt 4, FP Reader, Wi-Fi 6, Win11 Home, COU 32GB USB",
+        "Intialprice": "N/A",
+        "SellingPrice": "N/A",
+        "Reviews": "",
+        "Rating": "4.1 out of 5 stars"
+    },
+    {
+        "Brand": "LG",
+        "Title": "LG Gram 17Z90Q Laptop 2022 17\u201d WQXGA 2560 x 1600 Display Intel Core i7-1260P, 12-core, Intel Iris Xe Graphics, 16GB LPDDR5, 512GB SSD, Backlit Keyboard, Thunderbolt 4, Wi-Fi 6E, Windows 10 Home",
+        "Intialprice": "N/A",
+        "SellingPrice": "N/A",
+        "Reviews": "",
+        "Rating": "4.1 out of 5 stars"
+    },
+    {
+        "Brand": "LG",
+        "Title": "LG Gram (2022) 16Z90Q Ultra Lightweight Laptop, 16\" (2560 x 1600) IPS Display, Intel Evo 12th Gen i5 1240P Processor, 16GB LPDDR5, 512GB NVMe SSD, FHD Webcam, WiFi 6E, Thunderbolt 4, Windows 11, Gray",
+        "Intialprice": "N/A",
+        "SellingPrice": "N/A",
+        "Reviews": "3",
+        "Rating": "4.1 out of 5 stars"
+    },
+    {
+        "Brand": "LG",
+        "Title": "Acer Aspire 5252-V078 Laptop LCD Screen Replacement 15.6\" WXGA HD GLOSSY LED",
+        "Intialprice": "N/A",
+        "SellingPrice": "$65.32",
+        "Reviews": "$65\n32",
+        "Rating": "4.1 out of 5 stars"
+    }
+]

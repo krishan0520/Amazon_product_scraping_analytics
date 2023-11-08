@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">Brand</Data></Cell>
+			<Cell><Data ss:Type="String">discout_levels</Data></Cell>
+			<Cell><Data ss:Type="String">COUNT(discout_levels)</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="String">acer</Data></Cell>
+			<Cell><Data ss:Type="String">A</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">acer</Data></Cell>
+			<Cell><Data ss:Type="String">B</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">acer</Data></Cell>
+			<Cell><Data ss:Type="String">C</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">acer</Data></Cell>
+			<Cell><Data ss:Type="String">D</Data></Cell>
+			<Cell><Data ss:Type="String">11</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">acer</Data></Cell>
+			<Cell><Data ss:Type="String">E</Data></Cell>
+			<Cell><Data ss:Type="String">28</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Apple</Data></Cell>
+			<Cell><Data ss:Type="String">D</Data></Cell>
+			<Cell><Data ss:Type="String">2</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Apple</Data></Cell>
+			<Cell><Data ss:Type="String">E</Data></Cell>
+			<Cell><Data ss:Type="String">2</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">ASUS</Data></Cell>
+			<Cell><Data ss:Type="String">C</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">ASUS</Data></Cell>
+			<Cell><Data ss:Type="String">D</Data></Cell>
+			<Cell><Data ss:Type="String">11</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">ASUS</Data></Cell>
+			<Cell><Data ss:Type="String">E</Data></Cell>
+			<Cell><Data ss:Type="String">8</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dell</Data></Cell>
+			<Cell><Data ss:Type="String">B</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dell</Data></Cell>
+			<Cell><Data ss:Type="String">C</Data></Cell>
+			<Cell><Data ss:Type="String">4</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dell</Data></Cell>
+			<Cell><Data ss:Type="String">D</Data></Cell>
+			<Cell><Data ss:Type="String">7</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dell</Data></Cell>
+			<Cell><Data ss:Type="String">E</Data></Cell>
+			<Cell><Data ss:Type="String">13</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HP</Data></Cell>
+			<Cell><Data ss:Type="String">D</Data></Cell>
+			<Cell><Data ss:Type="String">10</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HP</Data></Cell>
+			<Cell><Data ss:Type="String">E</Data></Cell>
+			<Cell><Data ss:Type="String">18</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Lenovo</Data></Cell>
+			<Cell><Data ss:Type="String">B</Data></Cell>
+			<Cell><Data ss:Type="String">2</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Lenovo</Data></Cell>
+			<Cell><Data ss:Type="String">C</Data></Cell>
+			<Cell><Data ss:Type="String">3</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Lenovo</Data></Cell>
+			<Cell><Data ss:Type="String">D</Data></Cell>
+			<Cell><Data ss:Type="String">12</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Lenovo</Data></Cell>
+			<Cell><Data ss:Type="String">E</Data></Cell>
+			<Cell><Data ss:Type="String">14</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">LG</Data></Cell>
+			<Cell><Data ss:Type="String">C</Data></Cell>
+			<Cell><Data ss:Type="String">2</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">LG</Data></Cell>
+			<Cell><Data ss:Type="String">D</Data></Cell>
+			<Cell><Data ss:Type="String">2</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">LG</Data></Cell>
+			<Cell><Data ss:Type="String">E</Data></Cell>
+			<Cell><Data ss:Type="String">3</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Microsoft</Data></Cell>
+			<Cell><Data ss:Type="String">B</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Microsoft</Data></Cell>
+			<Cell><Data ss:Type="String">C</Data></Cell>
+			<Cell><Data ss:Type="String">5</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Microsoft</Data></Cell>
+			<Cell><Data ss:Type="String">D</Data></Cell>
+			<Cell><Data ss:Type="String">11</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Microsoft</Data></Cell>
+			<Cell><Data ss:Type="String">E</Data></Cell>
+			<Cell><Data ss:Type="String">9</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Panasonic</Data></Cell>
+			<Cell><Data ss:Type="String">B</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Panasonic</Data></Cell>
+			<Cell><Data ss:Type="String">C</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Panasonic</Data></Cell>
+			<Cell><Data ss:Type="String">D</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Panasonic</Data></Cell>
+			<Cell><Data ss:Type="String">E</Data></Cell>
+			<Cell><Data ss:Type="String">4</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>

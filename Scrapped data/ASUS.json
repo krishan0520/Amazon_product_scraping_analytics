@@ -1,0 +1,554 @@
+[
+    {
+        "Brand": "ASUS",
+        "Title": "ASUS0 Vivobook Go 14 L410 Ultra Thin Laptop, 14\u201d FHD Display, Intel Celeron N4020 Processor, 4GB RAM, 64GB eMMC, NumberPad, Windows 11 Home in S Mode, 1 Year Microsoft 365, Star Black, L410MA-AH02",
+        "Intialprice": "$229.99",
+        "SellingPrice": "$169.99",
+        "Reviews": "",
+        "Rating": "4.0 out of 5 stars"
+    },
+    {
+        "Brand": "ASUS",
+        "Title": "ASUS Vivobook Laptop L210 11.6\" Ultra Thin Laptop, Intel Celeron N4020 Processor, 4GB RAM, 128GB eMMC Storage, Windows 11 Home in S Mode with One Year of Office 365 Personal, L210MA-DS04,Star Black",
+        "Intialprice": "$249.99",
+        "SellingPrice": "$184.99",
+        "Reviews": "740",
+        "Rating": "4.0 out of 5 stars"
+    },
+    {
+        "Brand": "ASUS",
+        "Title": "ASUS 2023 Newest Vivobook, 15.6\" FHD IPS Thin and Light Laptop, Intel 4-Core i5-1135G7 (Up to 4.2 GHz, Beat i7-1185G7E), 16GB RAM, 512GB SSD, Iris Xe Graphics, Webcam, Bluetooth, WiFi, Win 11 Home",
+        "Intialprice": "$599.99",
+        "SellingPrice": "$549.99",
+        "Reviews": "879",
+        "Rating": "4.0 out of 5 stars"
+    },
+    {
+        "Brand": "ASUS",
+        "Title": "ASUS Vivobook 15X OLED Laptop, 15.6\u201d FHD OLED Display, AMD Ryzen\u2122 7 7730U CPU, 16GB RAM, 1TB SSD, Windows 11 Home, Indie Black, S3504YA-DS77",
+        "Intialprice": "N/A",
+        "SellingPrice": "$799.99",
+        "Reviews": "6",
+        "Rating": "4.0 out of 5 stars"
+    },
+    {
+        "Brand": "ASUS",
+        "Title": "ASUS TUF Gaming F15 (2022) Gaming Laptop, 15.6\u201d FHD 144Hz Display, GeForce RTX 3050, Intel Core i5-12500H, 16GB DDR4, 512GB PCIe SSD, Wi-Fi 6, Windows 11, FX507ZC-ES53,Mecha Gray",
+        "Intialprice": "N/A",
+        "SellingPrice": "$899.99",
+        "Reviews": "1,444",
+        "Rating": "4.0 out of 5 stars"
+    },
+    {
+        "Brand": "ASUS",
+        "Title": "ASUS TUF Gaming A15 (2023) Gaming Laptop, 15.6\u201d FHD 144Hz, 100% sRGB Display, GeForce RTX 4050, AMD Ryzen 7 7735HS, 16GB DDR5, 1TB PCIe SSD, Wi-Fi 6E, Windows 11, FA507NU-DS74,Mecha Gray",
+        "Intialprice": "$1,199.99",
+        "SellingPrice": "$1,049.00",
+        "Reviews": "104",
+        "Rating": "4.0 out of 5 stars"
+    },
+    {
+        "Brand": "ASUS",
+        "Title": "ASUS Laptop L510 Ultra Thin Laptop, 15.6\u201d FHD Display, Intel Pentium Silver N5030 Processor, 4GB RAM, 128GB Storage, Windows 11 Home in S Mode, 1 Year Microsoft 365, Star Black, L510MA-DH21",
+        "Intialprice": "$299.99",
+        "SellingPrice": "$238.00",
+        "Reviews": "180",
+        "Rating": "4.0 out of 5 stars"
+    },
+    {
+        "Brand": "ASUS",
+        "Title": "ASUS Laptop L510 Ultra Thin Laptop, 15.6\u201d FHD Display, Intel Celeron N4020 Processor, 4GB RAM, 128GB Storage, Windows 10 Home in S Mode, 1 Year Microsoft 365, Star Black, L510MA-DS04",
+        "Intialprice": "$279.99",
+        "SellingPrice": "$249.00",
+        "Reviews": "1,015",
+        "Rating": "4.0 out of 5 stars"
+    },
+    {
+        "Brand": "ASUS",
+        "Title": "ASUS VivoBook 14\" FHD 1080p Laptop, Intel Core i3-1115G4, 8GB RAM, 256GB PCIe SSD, Backlit Keyboard, HDMI, WiFi, Webcam, Windows 11 Home, Slate Grey",
+        "Intialprice": "N/A",
+        "SellingPrice": "$336.00",
+        "Reviews": "122",
+        "Rating": "4.0 out of 5 stars"
+    },
+    {
+        "Brand": "ASUS",
+        "Title": "ASUS Vivobook 15 Laptop, 15.6\u201d FHD (1920 x 1080) Display, Intel Core i3-1215U CPU, Intel UHD Graphics, 8GB RAM, 128GB SSD, Windows 11 Home in S Mode, Quiet Blue, F1504ZA-AS34",
+        "Intialprice": "$369.99",
+        "SellingPrice": "$338.99",
+        "Reviews": "19",
+        "Rating": "4.0 out of 5 stars"
+    },
+    {
+        "Brand": "ASUS",
+        "Title": "ASUS VivoBook 15X OLED Laptop, 15.6\" OLED Display, AMD Ryzen 7 5800H CPU, AMD Radeon GPU, 16GB RAM, 512GB SSD, Windows 11 Home, Quiet Blue, M1503QA-ES74",
+        "Intialprice": "$899.99",
+        "SellingPrice": "$640.00",
+        "Reviews": "31",
+        "Rating": "4.0 out of 5 stars"
+    },
+    {
+        "Brand": "ASUS",
+        "Title": "ASUS Vivobook 15.6\" FHD Laptop | Intel Core i5-1135G7 | Intel Iris Xe Graphics | 8GB RAM | 1024GB SSD | Windows 11 Home | Black | Bundle with USB 3.0 Hub",
+        "Intialprice": "N/A",
+        "SellingPrice": "$489.99",
+        "Reviews": "10",
+        "Rating": "4.0 out of 5 stars"
+    },
+    {
+        "Brand": "ASUS",
+        "Title": "ASUS Vivobook 16 Laptop, 16\u201d WUXGA 1920X1200 16:10 Display, AMD Ryzen\u2122 5 5625U CPU, AMD Radeon\u2122 Graphics, 8GB RAM, 512GB SSD, Fingerprint Sensor, Windows 11 Home, Indie Black, M1605YA-EH54",
+        "Intialprice": "N/A",
+        "SellingPrice": "$549.99",
+        "Reviews": "174",
+        "Rating": "4.0 out of 5 stars"
+    },
+    {
+        "Brand": "ASUS",
+        "Title": "2022 Newest ASUS ZenBook 2 in 1 15.6\u201d FHD Touch Screen Laptop | AMD Ryzen 7 5700U ( Beat i7-1165G7) | 8GB RAM | 256GB SSD | Backlit Keyboard | Windows 11 | Grey | with USB3.0 HUB Bundle",
+        "Intialprice": "$729.00",
+        "SellingPrice": "$545.00",
+        "Reviews": "21",
+        "Rating": "4.0 out of 5 stars"
+    },
+    {
+        "Brand": "ASUS",
+        "Title": "ASUS 2023 Newest Vivobook Laptop, 16\" HD Display, AMD Ryzen 7 5800HS(Beat i7-1195G7), 16GB RAM, 1TB SSD, AMD Radeon Graphics, WiFi 6, Chiclet Keyboard, USB-A&C, Windows 11 Home, Bundle with JAWFOAL",
+        "Intialprice": "N/A",
+        "SellingPrice": "$749.99",
+        "Reviews": "709",
+        "Rating": "4.0 out of 5 stars"
+    },
+    {
+        "Brand": "ASUS",
+        "Title": "ASUS 16\" 24GB RAM 1TB SSD VivoBook 16X Laptop, Windows 11 Pro, AMD Ryzen 7 5800HS 8-Core Processor, WUXGA IPS Anti-Glare Display, Camera Privacy Shutter, HDMI, USB-C, Blue",
+        "Intialprice": "N/A",
+        "SellingPrice": "$699.99",
+        "Reviews": "2",
+        "Rating": "4.0 out of 5 stars"
+    },
+    {
+        "Brand": "ASUS",
+        "Title": "ASUS E410 Intel Celeron N4020 4GB 64GB 14-Inch HD LED Win 10 Laptop (Star Black)",
+        "Intialprice": "N/A",
+        "SellingPrice": "$195.00",
+        "Reviews": "615",
+        "Rating": "4.0 out of 5 stars"
+    },
+    {
+        "Brand": "ASUS",
+        "Title": "ASUS 2023 Newest Vivobook Laptop, 16\" HD Display, AMD Ryzen 7 5800HS (8 core, Beats i7-1195G7), 12GB RAM, 512GB SSD, AMD Radeon Graphics, WiFi 6, Chiclet Keyboard, USB-A&C, Windows 11 Home",
+        "Intialprice": "N/A",
+        "SellingPrice": "$591.66",
+        "Reviews": "25",
+        "Rating": "4.0 out of 5 stars"
+    },
+    {
+        "Brand": "ASUS",
+        "Title": "ASUS VivoBook 14 Laptop Computer, 14\" IPS FHD Display, Intel Core i3-1115G4 Processor, Backlit Keyboard, Fingerprint Reader, Windows 11 Home (20GB RAM | 1TB PCIe SSD)",
+        "Intialprice": "N/A",
+        "SellingPrice": "$439.00",
+        "Reviews": "2",
+        "Rating": "4.0 out of 5 stars"
+    },
+    {
+        "Brand": "ASUS",
+        "Title": "ASUS Zenbook S 13 OLED Ultra Laptop, 13.3\u201d OLED 2.8K Display, Intel Evo Certified, i7-1355U CPU, Intel\u00ae Iris Xe Graphics, 32GB RAM, 1TB SSD, Windows 11 Pro, Basalt Grey, UX5304VA-XS76T",
+        "Intialprice": "N/A",
+        "SellingPrice": "$1,399.99",
+        "Reviews": "60",
+        "Rating": "4.0 out of 5 stars"
+    },
+    {
+        "Brand": "ASUS",
+        "Title": "ASUS 2023 Vivobook 14 Laptop, 14\u201d FHD (1920 x 1080) Display, Intel Core i5-1235U CPU, Intel Iris X\u1d49 Graphics, 8GB RAM, 256GB SSD, Windows 11 Home, Quiet Blue, F1404ZA-AS51",
+        "Intialprice": "N/A",
+        "SellingPrice": "$479.63",
+        "Reviews": "206",
+        "Rating": "4.0 out of 5 stars"
+    },
+    {
+        "Brand": "ASUS",
+        "Title": "ASUS Vivobook Laptop, 17.3\" FHD Display, 12th Gen Intel Core i3-1220P Processor (Beats i7-1195G7), Fingerprint Reader, SonicMaster Audio, Long Battery Life, Windows 11 (16GB RAM | 1TB PCIe SSD)",
+        "Intialprice": "N/A",
+        "SellingPrice": "$539.00",
+        "Reviews": "13",
+        "Rating": "4.0 out of 5 stars"
+    },
+    {
+        "Brand": "ASUS",
+        "Title": "ASUS Newest Thin and Light VivoBook, 14 HD Touchscreen 2-in-1 Laptop, 4GB RAM, 128GB (64G SSD+64G MSD), Intel Celeron Processor, Type-C,HDMI, Microsoft 365 Personal 1-Year, Windows 11 S",
+        "Intialprice": "N/A",
+        "SellingPrice": "$296.54",
+        "Reviews": "13",
+        "Rating": "4.0 out of 5 stars"
+    },
+    {
+        "Brand": "ASUS",
+        "Title": "ASUS VivoBook Pro 15 OLED Slim Laptop, 15.6\u201d FHD OLED Display, Intel Core i5-11300H CPU, NVIDIA GeForce GTX 1650 Max Q, 8GB RAM, 512GB SSD, Windows 11 Home, Quiet Blue, K3500PH-DB51",
+        "Intialprice": "$919.99",
+        "SellingPrice": "$671.59",
+        "Reviews": "58",
+        "Rating": "4.0 out of 5 stars"
+    },
+    {
+        "Brand": "ASUS",
+        "Title": "asus Newest Vivobook 15.6'' FHD Slim Laptop Computer, Intel Core i5-1135G7(4 Cores), 20GB RAM, 1TB NVMe SSD, Full-Size Keyboard, WiFi, HDMI, Type-C, Win 11 Home, Black, w/CUE Accessories",
+        "Intialprice": "N/A",
+        "SellingPrice": "$539.00",
+        "Reviews": "38",
+        "Rating": "4.2 out of 5 stars"
+    },
+    {
+        "Brand": "ASUS",
+        "Title": "Asus Flagship 15.6Inches FHD VivoBook Business Laptop Intel Core i5-1135G7 (Up to 4.2 GHz Beats i7-1065G7) 20GB RAM 1TB PCIe SSD Intel Iris Xe Graphics Wi-Fi Webcam HDMI Win 11 w/GM Accessory Black",
+        "Intialprice": "N/A",
+        "SellingPrice": "$549.99",
+        "Reviews": "42",
+        "Rating": "4.2 out of 5 stars"
+    },
+    {
+        "Brand": "ASUS",
+        "Title": "ASUS Vivobook Flagship 14\" FHD IPS Ultra Thin Laptop, Intel Core i5-1240P (Up to 4.4 GHz, Beats i7-1165G7), 16GB RAM, 512GB PCIE SSD, Fingerprint Reader, WiFi, Bluetooth, Win 11 Home, GM Accessories",
+        "Intialprice": "N/A",
+        "SellingPrice": "$499.99",
+        "Reviews": "16",
+        "Rating": "4.2 out of 5 stars"
+    },
+    {
+        "Brand": "ASUS",
+        "Title": "ASUS Chromebook C523 Laptop, 15.6\" HD NanoEdge-Display with 180 Degree-Hinge Intel Dual Core Celeron-Processor, 4GB-RAM, 32GB Storage, Silver Color, C523NA-DH02",
+        "Intialprice": "N/A",
+        "SellingPrice": "N/A",
+        "Reviews": "1,722",
+        "Rating": "4.2 out of 5 stars"
+    },
+    {
+        "Brand": "ASUS",
+        "Title": "ASUS 2023 Newest TUF Gaming Laptop, 15.6\" FHD IPS 144Hz Display, Intel 14-Core i7-12700H (Up to 4.7 GHz), NVIDIA GeForce RTX 4060, 16GB RAM, 512GB SSD, Wi-Fi 6, Backlit Keyboard, Windows 11 Home",
+        "Intialprice": "N/A",
+        "SellingPrice": "$1,084.49",
+        "Reviews": "$1,084\n49",
+        "Rating": "4.2 out of 5 stars"
+    },
+    {
+        "Brand": "ASUS",
+        "Title": "ASUS VivoBook L203MA Ultra-Thin Laptop, Intel Celeron N4000 Processor, 4GB LPDDR4, 64GB eMMC, 11.6\u201d HD, USB-C, Windows 10 in S Mode (Switchable to Pro), L203MA-DS04, One Year of Microsoft Office 365",
+        "Intialprice": "$249.99",
+        "SellingPrice": "$195.95",
+        "Reviews": "6,475",
+        "Rating": "4.2 out of 5 stars"
+    },
+    {
+        "Brand": "ASUS",
+        "Title": "Asus Zenbook 14 inch FHD Laptop, AMD Ryzen 5 5500U, 6-Cores, up to 4 GHz, 8GB DDR4 RAM, 256GB PCle SSD, NVIDIA GeForce MX450 Graphics, Webcam, WiFi, Bluetooth, HDMI, Media Card Reader",
+        "Intialprice": "N/A",
+        "SellingPrice": "$597.84",
+        "Reviews": "62",
+        "Rating": "4.2 out of 5 stars"
+    },
+    {
+        "Brand": "ASUS",
+        "Title": "ASUS VivoBook Thin and Light Laptop, 15.6\" FHD Display, AMD Ryzen 3 3250U Processor, AMD Radeon Graphics, Backlit Keyboard, Fingerprint Reader, Webcam, Wi-Fi, HDMI, Windows 11 (20GB RAM | 1TB SSD)",
+        "Intialprice": "N/A",
+        "SellingPrice": "$499.00",
+        "Reviews": "2",
+        "Rating": "4.2 out of 5 stars"
+    },
+    {
+        "Brand": "ASUS",
+        "Title": "asus Newest Vivobook 15.6'' FHD Slim Laptop Computer, Intel Core i5-1135G7(4 Cores), 20GB RAM, 1TB NVMe SSD, Full-Size Keyboard, WiFi, HDMI, Type-C, Win 11 Home, Black, w/CUE Accessories",
+        "Intialprice": "N/A",
+        "SellingPrice": "$539.00",
+        "Reviews": "38",
+        "Rating": "4.2 out of 5 stars"
+    },
+    {
+        "Brand": "ASUS",
+        "Title": "ASUS Chromebook Laptop 2023 Newest, 17.3\" FHD 1080p Widescreen, Intel Celeron N4500 (Upto 2.8GHz), 4GB RAM, 128GB Storage (64GB eMMC+64GB SD), Webcam, WiFi 6, Long Battery,Chrome OS,w/MarxsolAccessory",
+        "Intialprice": "N/A",
+        "SellingPrice": "$289.00",
+        "Reviews": "$289\n00",
+        "Rating": "4.2 out of 5 stars"
+    },
+    {
+        "Brand": "ASUS",
+        "Title": "ASUS C424MA-AS48F Chromebook C424, 14.0\" 180 Degree FHD NanoEdge Display, Intel Dual Core Celeron Processor, 4GB LPDDR4 RAM, 128GB Storage, Silver Color, C424MA-AS48F",
+        "Intialprice": "$249.99",
+        "SellingPrice": "$219.00",
+        "Reviews": "1,803",
+        "Rating": "4.2 out of 5 stars"
+    },
+    {
+        "Brand": "ASUS",
+        "Title": "ASUS ROG Strix Scar 16 (2023) Gaming Laptop, 16\u201d Nebula HDR QHD 240Hz/3ms, 1100 nits, Mini LED, GeForce RTX 4080, Intel Core i9-13980HX, 32GB DDR5, 1TB PCIe, Wi-Fi 6E, Windows 11 Pro,G634JZ-XS96,Black",
+        "Intialprice": "N/A",
+        "SellingPrice": "$2,899.00",
+        "Reviews": "95",
+        "Rating": "4.2 out of 5 stars"
+    },
+    {
+        "Brand": "ASUS",
+        "Title": "ASUS E410MA 14\" Laptop Computer Intel Celeron N4020 1.1GHz Processor; 4GB DDR4 Onboard RAM; 64GB eMMC Storage; Intel UHD Graphics 600",
+        "Intialprice": "N/A",
+        "SellingPrice": "$209.00",
+        "Reviews": "88",
+        "Rating": "4.2 out of 5 stars"
+    },
+    {
+        "Brand": "ASUS",
+        "Title": "ASUS Vivobook S 15 2023 Laptop 15.6\" FHD OLED 14-Core 12th Intel Core i7-12700H 32GB DDR4 2TB SSD Iris Xe Graphics Thunderbolt 4 Wi-Fi 6E Backlit Keyboard Fingerprint Windows 11 Pro w/ONT 32GB USB",
+        "Intialprice": "N/A",
+        "SellingPrice": "$1,349.00",
+        "Reviews": "$1,349\n00",
+        "Rating": "4.2 out of 5 stars"
+    },
+    {
+        "Brand": "ASUS",
+        "Title": "ASUS Chromebook C203XA Rugged & Spill Resistant Laptop, 11.6\" HD, 180 Degree, MediaTek Quad-Core Processor, 4GB RAM, 32GB eMMC, MIL-STD 810G Durability, Dark Grey, Education, Chrome OS, C203XA-YS02-GR",
+        "Intialprice": "$249.99",
+        "SellingPrice": "$178.99",
+        "Reviews": "815",
+        "Rating": "4.2 out of 5 stars"
+    },
+    {
+        "Brand": "ASUS",
+        "Title": "ASUS Zenbook Q420V Laptop, Intel 14-Core i7-13700H, 14.5\" 2.8K 120Hz OLED Touchscreen, Intel Iris Xe Graphics, 16GB LPDDR5 2TB SSD, Backlit Keyboard, Thunderbolt 4, HDMI 2.1, Wi-Fi 6E, Win11 Pro",
+        "Intialprice": "N/A",
+        "SellingPrice": "N/A",
+        "Reviews": "N/A",
+        "Rating": "3.5 out of 5 stars"
+    },
+    {
+        "Brand": "ASUS",
+        "Title": "ASUS VivoBook S 15 OLED Laptop, 15.6\u201d 2.8K 120Hz Display, Intel Evo Platform, Intel Core i9-13900H CPU, 16GB RAM, 1TB SSD, Windows 11 Home, Midnight Black, K5504VA-ES96",
+        "Intialprice": "$1,099.99",
+        "SellingPrice": "$989.99",
+        "Reviews": "13",
+        "Rating": "3.5 out of 5 stars"
+    },
+    {
+        "Brand": "ASUS",
+        "Title": "ASUS Zenbook Pro 14 OLED 14.5\u201d OLED 16:10 Touch Display, DialPad, Intel i9-13900H CPU, GeForce RTX 4060 Graphics, 16GB RAM, 1TB SSD, Windows 11 Home, Tech Black, UX6404VV-DS94T",
+        "Intialprice": "N/A",
+        "SellingPrice": "$1,799.99",
+        "Reviews": "19",
+        "Rating": "3.5 out of 5 stars"
+    },
+    {
+        "Brand": "ASUS",
+        "Title": "ASUS 2023 ROG Strix G16 16'' WUXGA 165Hz Gaming Laptop, Intel Core i7-13650HX, NVIDIA GeForce RTX 4060, 32GB DDR5 RAM, 2TB SSD, RGB 4zone Backlit Keyboard, Win 11Pro, Gray, 32GB SnowBell USB Card",
+        "Intialprice": "N/A",
+        "SellingPrice": "N/A",
+        "Reviews": "1",
+        "Rating": "3.5 out of 5 stars"
+    },
+    {
+        "Brand": "ASUS",
+        "Title": "ASUS 2023 Creator Q 15.6\u201d FHD OLED Laptop 10-Core Intel i7-13620H NVIDIA GeForce RTX 3050 6GB 16GB DDR5 512GB NVMe SSD Thunderbolt4 WiFi 6E RJ45 HDMI Backlit KB Fingerprint Windows 11 Home w/RE USB",
+        "Intialprice": "N/A",
+        "SellingPrice": "N/A",
+        "Reviews": "N/A",
+        "Rating": "3.5 out of 5 stars"
+    },
+    {
+        "Brand": "ASUS",
+        "Title": "2022 ASUS L410 Thin Light Student Laptop Computer, 14\" FHD Display, Intel Celeron Processor, 4GB RAM, 256 GB Storage, 12Hours Battery, Backlit Keyboard, Windows 10 + 1 Year Microsoft 365, Star Black",
+        "Intialprice": "N/A",
+        "SellingPrice": "$259.99",
+        "Reviews": "56",
+        "Rating": "4.1 out of 5 stars"
+    },
+    {
+        "Brand": "ASUS",
+        "Title": "ASUS ZenBook 13 OLED Ultra-Slim Laptop, 13.3\u201d FHD NanoEdge Bezel Display, AMD Ryzen 7 5700U, 8GB LPDDR4X RAM, 512GB PCIe SSD, NumberPad, Wi-Fi 5, Windows 11 Home, Pine Grey, UM325UA-DH71",
+        "Intialprice": "N/A",
+        "SellingPrice": "$799.99",
+        "Reviews": "91",
+        "Rating": "4.1 out of 5 stars"
+    },
+    {
+        "Brand": "ASUS",
+        "Title": "ASUS VivoBook Flip 14 Thin and Light 2-in-1 Laptop, 14\u201d FHD Touch, 11th Gen Intel Core i3-1115G4, 4GB RAM, 128GB SSD, Thunderbolt 4, Fingerprint, Windows 10 Home in S Mode, Indie Black, TP470EA-AS34T",
+        "Intialprice": "$479.99",
+        "SellingPrice": "$409.00",
+        "Reviews": "910",
+        "Rating": "4.1 out of 5 stars"
+    },
+    {
+        "Brand": "ASUS",
+        "Title": "ASUS 2022 TUF Gaming 17.3\" FHD 144Hz Laptop, Intel Core i5-11260H (Beats i7-8750H), 64GB RAM, 2TB PCIe SSD, RGB Backlit Keyboard, GeForce RTX 3050 Graphics, Windows 10, Grey, 32GB USB Card",
+        "Intialprice": "N/A",
+        "SellingPrice": "$1,245.00",
+        "Reviews": "71",
+        "Rating": "4.1 out of 5 stars"
+    },
+    {
+        "Brand": "ASUS",
+        "Title": "ASUS VivoBook S15 S533 Thin and Light Laptop, 15.6\u201d FHD Display, Intel Core i5-1135G7, 8GB DDR4 RAM, 512GB PCIe SSD, Wi-Fi 6, Windows 10 Home, AI noise-cancellation, Dreamy White, S533EA-DH51-WH",
+        "Intialprice": "$729.99",
+        "SellingPrice": "$556.88",
+        "Reviews": "269",
+        "Rating": "4.1 out of 5 stars"
+    },
+    {
+        "Brand": "ASUS",
+        "Title": "2022 ASUS Laptop L210 11.6\u201d Ultra Thin Student Laptop Computer, Intel Celeron N4020 Processor, 4GB RAM, 320 GB Storage, Windows 10 Home in S Mode with One Year of Office 365 Personal, Star Black",
+        "Intialprice": "N/A",
+        "SellingPrice": "$229.99",
+        "Reviews": "16",
+        "Rating": "4.7 out of 5 stars"
+    },
+    {
+        "Brand": "ASUS",
+        "Title": "ASUS VivoBook S 14X OLED Laptop, 14.5\u201d 2.8K 16:10 120Hz Display, Intel Evo Platform, Intel Core i5-12500H CPU, 8GB RAM, 512GB SSD, Windows 11 Home, Midnight Black, S5402ZA-DB51",
+        "Intialprice": "$899.99",
+        "SellingPrice": "$689.94",
+        "Reviews": "14",
+        "Rating": "4.7 out of 5 stars"
+    },
+    {
+        "Brand": "ASUS",
+        "Title": "ASUS CX1500CNA-AS84F Chromebook CX1, 15.6\" Full HD NanoEdge Display, Intel Celeron N3350 Processor, 64GB eMMC Storage, 8GB RAM, Chrome OS, Transparent Silver, CX1500CNA-AS84F",
+        "Intialprice": "N/A",
+        "SellingPrice": "$246.92",
+        "Reviews": "423",
+        "Rating": "4.7 out of 5 stars"
+    },
+    {
+        "Brand": "ASUS",
+        "Title": "ASUS Vivobook S 15 Laptop 2023, Intel 14-Core i9-13900H, 15.6\" 2880x1620 Display, Intel Iris Xe Graphics, 16GB LPDDR5 4TB SSD, Backlit Keyboard, Fingerprint, Thunderbolt 4, Wi-Fi 6E, Win11 Home",
+        "Intialprice": "N/A",
+        "SellingPrice": "N/A",
+        "Reviews": "N/A",
+        "Rating": "4.7 out of 5 stars"
+    },
+    {
+        "Brand": "ASUS",
+        "Title": "ASUS Vivobook Laptop 2023 Newest, 17.3\" FHD Display, Intel Core i3-1220P Processor (10 cores), 16GB RAM, 1TB SSD, Wi-Fi6, USB Type-A&C, Chiclet Keyboard, Camera, Fingerprint, Windows 11 Home",
+        "Intialprice": "N/A",
+        "SellingPrice": "$629.99",
+        "Reviews": "293",
+        "Rating": "4.7 out of 5 stars"
+    },
+    {
+        "Brand": "ASUS",
+        "Title": "ASUS 2023 Vivobook S 16 Flip 16\u201d WUXGA 16:10 Touch, Intel Core i5-13500H CPU, Intel HD Graphics, 8GB RAM, 512GB SSD, Stylus Supported, Windows 11 Home, Midnight Black, TP3604VA-DS51T",
+        "Intialprice": "$799.99",
+        "SellingPrice": "$699.99",
+        "Reviews": "2",
+        "Rating": "5.0 out of 5 stars"
+    },
+    {
+        "Brand": "ASUS",
+        "Title": "Asus 2022 Newest Chromebook 17.3\" FHD Laptop Computer, Intel Celeron N4500(Up to 2.8GHz), 4GB RAM, 320GB Space(64GB eMMC+256GB Card), WiFi, Bluetooth, Webcam, USB Type-C, Silver, Chrome OS+JVQ MP",
+        "Intialprice": "N/A",
+        "SellingPrice": "$299.00",
+        "Reviews": "75",
+        "Rating": "5.0 out of 5 stars"
+    },
+    {
+        "Brand": "ASUS",
+        "Title": "ASUS Laptop L510 Ultra Thin Laptop, 15.6\u201d FHD Display, Intel Celeron N4020 Processor, 4GB RAM, 64GB Storage, Windows 10 Home in S Mode, 1 Year Microsoft 365, Star Black, L510MA-DH02",
+        "Intialprice": "$289.99",
+        "SellingPrice": "$235.75",
+        "Reviews": "24",
+        "Rating": "5.0 out of 5 stars"
+    },
+    {
+        "Brand": "ASUS",
+        "Title": "ASUS CX1400CNA-AS44FV Chromebook CX1, 14\" Full HD NanoEdge Display, Intel Celeron N3350 Processor, 64GB eMMC, 4GB RAM, Chrome OS, Transparent Silver, CX1400CNA-AS44FV",
+        "Intialprice": "$279.99",
+        "SellingPrice": "$215.00",
+        "Reviews": "190",
+        "Rating": "5.0 out of 5 stars"
+    },
+    {
+        "Brand": "ASUS",
+        "Title": "ASUS Flagship 15.6\" Gaming FHD flip 2-in-1 Touchscreen Laptop, Intel i7-7500U, 12GB RAM, 128GB SSD + 2TB HDD, NVIDIA GeForce 940MX 2GB, Backlit Keyboard, WLAN, USB Type C, Bluetooth, HDMI, Windows 10",
+        "Intialprice": "N/A",
+        "SellingPrice": "N/A",
+        "Reviews": "1",
+        "Rating": "5.0 out of 5 stars"
+    },
+    {
+        "Brand": "ASUS",
+        "Title": "ASUS Vivobook S 15 2023 Business Laptop 15.6\" OLED 2.8K 14-Core 13th Intel i9-13900H 16GB LPDDR5 1TB SSD Iris Xe Graphics Thunderbolt 4 Wi-Fi 6E Backlit Fingerprint Windows 11 Home w/ONT 32GB USB",
+        "Intialprice": "N/A",
+        "SellingPrice": "N/A",
+        "Reviews": "N/A",
+        "Rating": "4.2 out of 5 stars"
+    },
+    {
+        "Brand": "ASUS",
+        "Title": "ASUS L510 MA-DB02 Ultra Thin Laptop, 15.6\u201d FHD Display, Intel Celeron N4020 Processor, 4GB RAM, 64GB Storage, Windows 10 Home in S Mode, Star Black",
+        "Intialprice": "N/A",
+        "SellingPrice": "N/A",
+        "Reviews": "116",
+        "Rating": "4.2 out of 5 stars"
+    },
+    {
+        "Brand": "ASUS",
+        "Title": "ASUS 2023 Flagship 17.3\" FHD Chromebook Laptop, Intel Celeron N4500 (Upto 2.8GHz), 4GB RAM, 128GB (64GB eMMC+64GB SD), Webcam, WiFi 6,UHD Graphic, WiFi 6,10+ Hours Battery,Chrome OS +HubxcelAccessory",
+        "Intialprice": "N/A",
+        "SellingPrice": "$299.00",
+        "Reviews": "$299\n00",
+        "Rating": "4.2 out of 5 stars"
+    },
+    {
+        "Brand": "ASUS",
+        "Title": "ASUS Vivobook 15.6\" FHD PC Laptop, Intel Core i5-1135G7, 8GB RAM, 256GB, Win 11 Home, F1500EA-WB51",
+        "Intialprice": "N/A",
+        "SellingPrice": "N/A",
+        "Reviews": "5",
+        "Rating": "4.2 out of 5 stars"
+    },
+    {
+        "Brand": "ASUS",
+        "Title": "ASUS TUF Gaming F15 FX507ZM-RS73 15.6\" Gaming Notebook - Full HD - 1920 x 1080 - Intel Core i7 12th Gen i7-12700H Tetradeca-core (14 Core) 2.30 GHz - 16 GB Total RAM - 512 GB SSD - Mecha Gray - Intel",
+        "Intialprice": "$1,399.99",
+        "SellingPrice": "$1,299.97",
+        "Reviews": "5",
+        "Rating": "4.2 out of 5 stars"
+    },
+    {
+        "Brand": "ASUS",
+        "Title": "ASUS Zenbook Pro 16 Laptop 16\" 165Hz Refresh Rate Display, Intel i7-12650H CPU, DialPad, NVidia GeForce RTX 3070 Ti Graphics, 32GB RAM, 1TB SSD, Windows 11 Home, Tech Black, UX6601ZW-DB76",
+        "Intialprice": "$2,099.99",
+        "SellingPrice": "$1,599.00",
+        "Reviews": "6",
+        "Rating": "3.4 out of 5 stars"
+    },
+    {
+        "Brand": "ASUS",
+        "Title": "ASUS - ROG Strix G15 Advantage Edition- 15.6\" QHD(2560 x 1440) Gaming Laptop - Radeon RX 6800M- AMD Ryzen 9 5980HX -Win 11 Home\uff0cwith HDMI Cable (64GB RAM | 1TB PCIe SSD)",
+        "Intialprice": "N/A",
+        "SellingPrice": "$1,569.90",
+        "Reviews": "3",
+        "Rating": "3.4 out of 5 stars"
+    },
+    {
+        "Brand": "ASUS",
+        "Title": "ASUS Chromebook Detachable CM3, 10.5\" Touchscreen WUXGA 16:10 Display, MediaTek 8183 Processor 64GB Storage, 4GB RAM, Garaged USI Stylus, Chrome OS, Aluminum, Mineral Gray, CM3000DVA-DS44T-S",
+        "Intialprice": "$369.99",
+        "SellingPrice": "$335.99",
+        "Reviews": "178",
+        "Rating": "3.4 out of 5 stars"
+    },
+    {
+        "Brand": "ASUS",
+        "Title": "ASUS Vivobook Thin and Light 2-in-1 Touchscreen Laptop, 14\" Touch Display, Intel Dual-core Processor, 4GB RAM, 192GB Storage (128GB SSD, 64GB eMMC), Intel UHD Graphics, Windows 11 in S Mode",
+        "Intialprice": "$329.99",
+        "SellingPrice": "$312.99",
+        "Reviews": "50",
+        "Rating": "3.4 out of 5 stars"
+    },
+    {
+        "Brand": "ASUS",
+        "Title": "ASUS Vivobook 16X K3605V 2023 Laptop 16\" WUXGA 1920x1200 IPS 14-Core Intel i9-13900H 32GB DDR4 2TB SSD NVIDIA GeForce RTX 4050 4GBGB GDDR6 Wi-Fi 6E Backlit Keyboard Windows 10 Home w/ONT 32GB USB",
+        "Intialprice": "N/A",
+        "SellingPrice": "N/A",
+        "Reviews": "N/A",
+        "Rating": "3.4 out of 5 stars"
+    }
+]

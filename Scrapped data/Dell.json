@@ -1,0 +1,906 @@
+[
+    {
+        "Brand": "Dell",
+        "Title": "Dell Touchscreen 15.6\" Inspiron Laptop with Windows 11 Pro, Full HD IPS Display, Intel Quad-Core i5 Processor, 20GB RAM, 1TB SSD, HDMI, Webcam, Black",
+        "Intialprice": "N/A",
+        "SellingPrice": "$649.99",
+        "Reviews": "11",
+        "Rating": "4.2 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell 15.6\" Inspiron Laptop with Windows 11 Pro, Intel Celeron N4020 Processor, 16GB RAM, 1TB SSD, Webcam, Wi-Fi, HDMI, Bluetooth, SD Card Reader, Black",
+        "Intialprice": "N/A",
+        "SellingPrice": "$469.99",
+        "Reviews": "14",
+        "Rating": "4.2 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell Inspiron Laptop, 15.6\" HD Display, AMD Ryzen 5 3450U Processor, 16GB RAM, 1TB SSD, Webcam, HDMI, SD Card Reader, Wi-Fi, Windows 11 Home, Carbon Black",
+        "Intialprice": "$789.00",
+        "SellingPrice": "$529.00",
+        "Reviews": "",
+        "Rating": "4.2 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell Inspiron 15 3000 Series 3511 Laptop, 15.6\" FHD Touchscreen, Intel Core i5-1035G1, 32GB DDR4 RAM, 1TB PCIe SSD, SD Card Reader, Webcam, HDMI, Wi-Fi, Windows 11 Home, Black",
+        "Intialprice": "N/A",
+        "SellingPrice": "$577.00",
+        "Reviews": "503",
+        "Rating": "4.2 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell 2022 Newest Inspiron 15 Laptop, 15.6\" HD Display, Intel Celeron N4020 Processor, 16GB DDR4 RAM, 1TB PCIe SSD, Webcam, HDMI, Wi-Fi, Bluetooth, Windows 11 Home, Black",
+        "Intialprice": "$499.00",
+        "SellingPrice": "$437.99",
+        "Reviews": "478",
+        "Rating": "4.2 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell Inspiron 15 3000 3520 Business Laptop Computer[Windows 11 Pro], 15.6'' FHD Touchscreen, 11th Gen Intel Quad-Core i5-1135G7, 16GB RAM, 512GB PCIe SSD, Numeric Keypad, Wi-Fi, Webcam, HDMI, Black",
+        "Intialprice": "N/A",
+        "SellingPrice": "$649.00",
+        "Reviews": "4",
+        "Rating": "4.2 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell Inspiron 15 3520 15.6\" FHD Touchscreen Laptop Computer, 16GB RAM, 1TB PCIe SSD, 4-Core Intel Core i5-1135G7, Numeric Keyboard, WiFi, HDMI, Webcam, SD Card Reader, Windows 11, Carbon Black",
+        "Intialprice": "N/A",
+        "SellingPrice": "$619.00",
+        "Reviews": "$619\n00",
+        "Rating": "4.2 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell Touchscreen 15.6\" Inspiron Business Laptop with Windows 11 Pro, Full HD IPS Display, Intel Quad Core i5 Processor, 12GB RAM, 1TB SSD, HDMI, Webcam, Black",
+        "Intialprice": "N/A",
+        "SellingPrice": "$599.99",
+        "Reviews": "6",
+        "Rating": "4.2 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell Newest Inspiron 15 3530 Laptop, 15.6\" FHD Touchscreen, Intel Core i7-1355U Processor, 64GB RAM, 2TB SSD, Webcam, HDMI, Bluetooth, Wi-Fi 6, Windows 11 Home, Black",
+        "Intialprice": "N/A",
+        "SellingPrice": "$989.00",
+        "Reviews": "106",
+        "Rating": "4.2 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell Inspiron 15 3511 15.6 Inch Laptop, Full HD LED Non-Touch WVA Display - Intel Core i3-1115G4, 8GB DDR4 RAM, 256GB SSD, UHD Graphics, Windows 11 Home - Carbon Black",
+        "Intialprice": "$529.99",
+        "SellingPrice": "$377.00",
+        "Reviews": "304",
+        "Rating": "4.2 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell Inspiron 15 3501 15.6 inch FHD i7 Laptop - Intel Core i7-1165G7, 16GB DDR4 RAM, 512GB SSD, Intel Iris Xe Graphics, Bluetooth 5.0, WiFi, HDMI, Windows 10 Home - Black",
+        "Intialprice": "$849.99",
+        "SellingPrice": "$675.00",
+        "Reviews": "151",
+        "Rating": "4.2 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "DELL Inspiron Laptops for Student & Business, 15.6'' FHD LED Touchscreen, Intel 13th Gen Core i7-1355U(10-core), Up to 5 GHz, 32GB RAM, 1TB SSD, HDMI, Wi-Fi 6, USB-C, Long Battery Life, Windows 11",
+        "Intialprice": "N/A",
+        "SellingPrice": "$949.99",
+        "Reviews": "$949\n99",
+        "Rating": "4.2 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell Inspiron 3583 15\u00e2\u201a\u00ac\u009d Laptop Intel Celeron \u00e2\u201a\u00ac\"\u0153 128GB SSD \u00e2\u201a\u00ac\"\u0153 4GB DDR4 \u00e2\u201a\u00ac\"\u0153 1.6GHz - UHD Graphics 610 - Windows 10 Home - Inspiron 15 3000 Series - New",
+        "Intialprice": "N/A",
+        "SellingPrice": "$319.00",
+        "Reviews": "1,572",
+        "Rating": "4.2 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell Inspiron 15 3000 3520 15.6\" FHD Touchscreen (Intel 4-Core i5-1135G7, 16GB RAM, 512GB PCIe SSD, UHD Graphics) Business Laptop, WVA Anti-Glare, Numeric Keypad, Webcam, Wi-Fi, Win 11 Pro, Black",
+        "Intialprice": "N/A",
+        "SellingPrice": "$599.98",
+        "Reviews": "16",
+        "Rating": "4.2 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell Latitude 3000 3120 11.6\" Touchscreen Notebook - HD - 1366 x 768 - Intel Celeron N5100 Quad-core (4 Core) 2.80 GHz - 4 GB Total RAM - 128 GB SSD",
+        "Intialprice": "$299.98",
+        "SellingPrice": "$162.30",
+        "Reviews": "$162\n30 Typical:\n$299.98",
+        "Rating": "4.2 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell 2023 Inspiron 15 3000 Business Laptop, 15.6'' FHD Display, 12th Gen Intel Core i7-1255U, Backlit Keyboard, Windows 11 Pro, 32GB DDR4 RAM, 1TB PCIe SSD, WiFi 6, SD Card Reader, Black",
+        "Intialprice": "$899.00",
+        "SellingPrice": "$783.00",
+        "Reviews": "8",
+        "Rating": "4.2 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "DELL 2023 Upgraded Inspiron 16 Plus Laptop, 16'' 16:10 3K(3072x1920), Intel 12th Gen Core i7-12700H(14-core), Nvidia GeForce RTX 3050 Ti, 40GB RAM|1TB SSD, Wi-Fi 6, USB-C|HDMI, Windows 11, Dark Green",
+        "Intialprice": "N/A",
+        "SellingPrice": "$1,299.99",
+        "Reviews": "$1,299\n99",
+        "Rating": "4.2 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell Inspiron 15 3000 15.6-inch Full HD 11th Gen Intel Core i5-1135G7 12GB 256GB SSD Laptop",
+        "Intialprice": "$699.99",
+        "SellingPrice": "$465.00",
+        "Reviews": "512",
+        "Rating": "4.2 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "2022 Newest Dell Inspiron 3000 Premium Laptop, 15.6 FHD Display, Intel Core i5-1135G7, 16GB DDR4 RAM, 1TB PCIe SSD, Online Meeting Ready, Webcam, WiFi, HDMI, Windows 11 Home, Black",
+        "Intialprice": "$560.00",
+        "SellingPrice": "$529.00",
+        "Reviews": "41",
+        "Rating": "4.2 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell Latitude E6420 Flagship 14.1-Inch Business High Performance Laptop (Intel Core i5 up to 3.2GHz, 8GB RAM, 128GB SSD, DVD, Wifi, Windows 10 Professional 64-bit) (Renewed)",
+        "Intialprice": "N/A",
+        "SellingPrice": "$148.84",
+        "Reviews": "341",
+        "Rating": "4.2 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell Latest Vostro 7620 Business Laptop | 16\" FHD+ Display | Intel 14-Core i7-12700H | NVIDIA RTX 3050 | 24GB DDR5 1TB SSD | WiFi 6E | Thunderbolt4 | HDMI | RJ-45 | Backlit KB | FPR | Win 11 Pro",
+        "Intialprice": "$1,099.99",
+        "SellingPrice": "$1,019.99",
+        "Reviews": "$1,019\n99 Typical:\n$1,099.99",
+        "Rating": "4.2 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "DELL 2023 Upgraded Inspiron 16 5620 Laptops for Student & Business, 16'' FHD+(1920 x 1200), Intel 12th Gen Core i5-1235U(10-core), Up to 4.4 GHz, 32GB RAM|1TB SSD, Wi-Fi 6E, USB-C, HDMI, Windows 11",
+        "Intialprice": "N/A",
+        "SellingPrice": "$899.99",
+        "Reviews": "$899\n99",
+        "Rating": "4.2 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell Inspiron 15 3000 Series 3530 Laptop, 15.6\" FHD Touchscreen, 13th Gen Intel Core i7-1355U, 32GB RAM, 1TB PCIe SSD, Webcam, HDMI, Wi-Fi 6, Windows 11 Home, Black",
+        "Intialprice": "N/A",
+        "SellingPrice": "N/A",
+        "Reviews": "47",
+        "Rating": "4.2 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell Inspiron 16 5625 Small Thin & Light Portable Laptop - 16 inch FHD+ (1920 x 1200) Display, AMD Ryzen 7 5825U, 16GB DDR4 RAM, 512GB SSD, Radeon Graphics, Bluetooth, Windows 11 Pro - Silver",
+        "Intialprice": "N/A",
+        "SellingPrice": "N/A",
+        "Reviews": "123",
+        "Rating": "4.2 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell Inspiron 16 5620 Laptop - 16.0-inch 16:10 FHD+ (1920 x 1200) Display, Intel Core i5-1235U, 8GB Memory, 512GB SSD, Intel UHD Graphics, Intel Wi-Fi 6E, Windows 11 Home - Platinum Silver",
+        "Intialprice": "N/A",
+        "SellingPrice": "$629.00",
+        "Reviews": "16",
+        "Rating": "4.2 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "DELL 2023 Inspiron 15 3525 Laptops for Student & Business, 15.6'' FHD 120Hz LED Display, AMD Ryzen 5 5500U, AMD Radeon Graphics, 32GB RAM|1TB SSD, HDMI, SD-Card Slot, Long Battery Life, Windows 11",
+        "Intialprice": "N/A",
+        "SellingPrice": "$599.99",
+        "Reviews": "$599\n99",
+        "Rating": "4.2 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell 2023 Vostro 3520 Business Laptop 15.6\" FHD 120Hz 10-Core Intel i7-1255U Iris Xe Graphics 64GB DDR4 2TB SSD Intel Iris Xe Graphics WiFi AC BT RJ-45 HDMI Card Reader Windows 11 Pro",
+        "Intialprice": "N/A",
+        "SellingPrice": "N/A",
+        "Reviews": "",
+        "Rating": "4.2 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell 2023 Inspiron 15 3525 Laptop, 15.6\" FHD Display, AMD Ryzen 7 5700U(8-core) Processor, 16GB RAM, 1TB SSD, AMD Radeon Graphics, Wi-Fi, Bluetooth, HDMI, Windows 11 Home, Carbon Black",
+        "Intialprice": "N/A",
+        "SellingPrice": "$606.00",
+        "Reviews": "$606\n00",
+        "Rating": "4.2 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell 2023 XPS 9530 15.6\" WUXGA IPS 500nits Business Laptop 14-Core Intel i7-13700H 64GB DDR5 2TB SSD Intel Arc A370M 4GB GDDR6 2xThunderbolt4 WiFi 6E Backlit Keyboard Fingerprint Windows 11 Pro",
+        "Intialprice": "N/A",
+        "SellingPrice": "N/A",
+        "Reviews": "",
+        "Rating": "4.2 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell 45W Replacement AC Adapter for Dell",
+        "Intialprice": "N/A",
+        "SellingPrice": "$19.68",
+        "Reviews": "8,309",
+        "Rating": "4.2 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell Touchscreen 15.6\" Inspiron Business Laptop with Windows 11 Pro, Full HD IPS Display, Intel Quad Core i5 Processor, 12GB RAM, 1TB SSD, HDMI, Webcam, Black",
+        "Intialprice": "N/A",
+        "SellingPrice": "$599.99",
+        "Reviews": "6",
+        "Rating": "4.1 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell Inspiron Touchscreen Laptop for College Student & Business, 15.6 inch FHD, 13th Gen Intel Core i7-1355U, 32GB RAM, 1TB SSD, Webcam, Wi-Fi, HDMI, Fast Charge, Lightweight, Windows 11",
+        "Intialprice": "N/A",
+        "SellingPrice": "$949.99",
+        "Reviews": "$949\n99",
+        "Rating": "4.1 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell Inspiron 15 3000 3520 Business Laptop 15.6\" FHD WVA Anti-Glare 120Hz Display 12th Generation Intel 10-Core i7-1255U Processor 16GB RAM 512GB SSD Intel Iris Xe Graphics HDMI Win11 Black",
+        "Intialprice": "N/A",
+        "SellingPrice": "$747.65",
+        "Reviews": "$747\n65",
+        "Rating": "4.1 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "DELL G15 15.6\u2018\u2019 FHD 120Hz Gaming Laptop, AMD Ryzen 5 6600H, 16GB DDR5 RAM, 512GB PCIe SSD, NVIDIA GeForce RTX 3050, Backlit Keyboard, HD Camera, Win 11 Pro, Gray",
+        "Intialprice": "N/A",
+        "SellingPrice": "$899.00",
+        "Reviews": "30",
+        "Rating": "4.1 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell 2023 Newest Inspiron Touchscreen Laptop, 15.6\" Touch Display, Intel Core i7 1355U Processor up to 5GHz, 16GB RAM, 512GB SSD, Intel Iris Xe Graphics, Wi-Fi 6, Bluetooth, Windows 11 Home",
+        "Intialprice": "N/A",
+        "SellingPrice": "$888.88",
+        "Reviews": "129",
+        "Rating": "4.1 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "2022 Newest Dell Inspiron 15.6\" FHD Touchscreen Laptop, Intel 10th Generation Core i5-1035G1(Up to 3.60GHz, Beat i7-8550U), 16GB Memory, 512GB PCIe SSD, Intel UHD Graphics, WiFi, Webcam, HDMI, Win11 S",
+        "Intialprice": "N/A",
+        "SellingPrice": "$560.00",
+        "Reviews": "55",
+        "Rating": "3.8 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell 2021 Newest Latitude 3520 15 15.6\" FHD Business Laptop, Intel Quad-Core i5-1135G7 up to 4.2GHz (Beat i7-1065G7), 16GB DDR4 RAM, 512GB PCIe SSD, WiFi 6, Bluetooth 5.2, Type-C, Windows 10 Pro",
+        "Intialprice": "$1,199.00",
+        "SellingPrice": "$770.95",
+        "Reviews": "16",
+        "Rating": "3.8 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "DELL 2023 Inspiron 16 5635 Business Laptop FHD+ 16\" Display, AMD Ryzen 7 7730U Processor, 16GB LPDDR4x RAM, 1TB SSD, AMD Radeon Graphics, Backlit Keyboard, Type-C, Windows 11 Home, Platinum Silver",
+        "Intialprice": "N/A",
+        "SellingPrice": "$779.00",
+        "Reviews": "$779\n00",
+        "Rating": "3.8 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "DELL 2023 Inspiron 15 3520 Business Laptop, 15.6\" FHD (1920x1080p Intel i3-1115G4 up to 4.1GHz (Beats N4020), UHD Graphics, Carbon Black (12G, 512G SSD, Win 11 Pro)",
+        "Intialprice": "N/A",
+        "SellingPrice": "$499.00",
+        "Reviews": "1",
+        "Rating": "3.8 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell Latitude E5570 15.6in Laptop, Core i5-6300U 2.4GHz, 8GB Ram, 256GB SSD, Windows 10 Pro 64bit (Renewed)",
+        "Intialprice": "N/A",
+        "SellingPrice": "$172.88",
+        "Reviews": "281",
+        "Rating": "3.8 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell Inspiron 14 5000 5425 Business Laptop 14\" FHD+ Anti-Glare Comfortview Display AMD 8-core Ryzen 7 5825U (>i7-1255U) 16GB RAM 1TB SSD USB-C Fast Charging FHD Webcam MaxxAudio Pro Win11 Silver",
+        "Intialprice": "N/A",
+        "SellingPrice": "$709.00",
+        "Reviews": "2",
+        "Rating": "5.0 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell Inspiron 15 Touchscreen Laptop 2022 Newest, 15.6\" FHD Display, 11th Gen Intel Core i7-1165G7 (up to 4.7 GHz), 16GB RAM, 1TB PCIE SSD, Webcam, Bluetooth 5, HDMI, Windows 11, Black",
+        "Intialprice": "N/A",
+        "SellingPrice": "$815.00",
+        "Reviews": "124",
+        "Rating": "5.0 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell G15 15.6\" FHD 120Hz Gaming Laptop, AMD Ryzen 5 6600H (up to 4.50 GHz), Backlit Keyboard, 16GB DDR5 RAM, 1TB PCIe SSD, NVIDIA GeForce RTX 3050, Windows 11h, Wi-Fi 6, Phantom Grey with Speckles",
+        "Intialprice": "N/A",
+        "SellingPrice": "$849.99",
+        "Reviews": "$849\n99",
+        "Rating": "5.0 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell Latitude 5000 5530 15.6\" Notebook - Full HD - 1920 x 1080 - Intel Core i5 12th Gen i5-1240P Dodeca-core (12 Core) 1.70 GHz - 16 GB Total RAM - 256 GB SSD - Gray",
+        "Intialprice": "$999.00",
+        "SellingPrice": "$949.00",
+        "Reviews": "$949\n00 Typical:\n$999.00",
+        "Rating": "5.0 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "DELL WD15 Monitor Dock 4K with 130W Adapter, USB-C, (450-AFGM, 6GFRT) (Renewed)']",
+        "Intialprice": "N/A",
+        "SellingPrice": "$33.81",
+        "Reviews": "418",
+        "Rating": "5.0 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "DELL Inspiron Laptops for Student & Business, 15.6'' FHD LED Touchscreen, Intel 13th Gen Core i7-1355U(10-core), Up to 5 GHz, 32GB RAM, 1TB SSD, HDMI, Wi-Fi 6, USB-C, Long Battery Life, Windows 11",
+        "Intialprice": "N/A",
+        "SellingPrice": "$949.99",
+        "Reviews": "$949\n99",
+        "Rating": "4.2 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell Latitude 3450 14\" Business Laptop, Intel Core I5-5200U 2.2GHz, 16G DDR3L, 500G, VGA, HDMI, Windows 10 Pro 64 Bit-Multi-Language Supports English/Spanish/French(Renewed)",
+        "Intialprice": "N/A",
+        "SellingPrice": "$257.98",
+        "Reviews": "$257\n98",
+        "Rating": "4.2 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "DELL 2023 Upgraded Inspiron 16 Plus Laptop, 16'' 16:10 3K(3072x1920), Intel 12th Gen Core i7-12700H(14-core), Nvidia GeForce RTX 3050 Ti, 40GB RAM|1TB SSD, Wi-Fi 6, USB-C|HDMI, Windows 11, Dark Green",
+        "Intialprice": "N/A",
+        "SellingPrice": "$1,299.99",
+        "Reviews": "$1,299\n99",
+        "Rating": "4.2 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell Latitude 7480 FHD (1920x1080) Ultrabook Business Laptop Notebook (Intel Core i7-7600U, 16GB Ram, 512GB Solid State SSD, HDMI, Camera, WiFi, Thunderbolt 3) Win 10 Pro (Renewed)",
+        "Intialprice": "$261.90",
+        "SellingPrice": "$232.99",
+        "Reviews": "261",
+        "Rating": "4.2 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell Inspiron 15 3530 Laptop 2023 Newest, High Performance for Business, 15.6\" FHD Anti-Glare Touchscreen, 13th Gen Intel Core i7-1355U(Up to 5GHz, 10 Cores), 32GB RAM, 1TB SSD, Wi-Fi 6, Win 11 Home",
+        "Intialprice": "N/A",
+        "SellingPrice": "$999.99",
+        "Reviews": "410",
+        "Rating": "4.2 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell Original 65W Thin Laptop Charger for Inspiron 15 Series Power-Supply-Cord (Original Version)",
+        "Intialprice": "N/A",
+        "SellingPrice": "$20.00",
+        "Reviews": "651",
+        "Rating": "4.5 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell 4C99R Latitude 5480 Laptop, 14\" HD, Intel Core i5-7300U, 8GB DDR4, 256GB Solid State Drive, Windows 10 Pro",
+        "Intialprice": "N/A",
+        "SellingPrice": "N/A",
+        "Reviews": "2",
+        "Rating": "4.5 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "2020 Dell Latitude 7410 Laptop 14 - Intel Core i7 10th Gen - i7-10610U - Quad Core 4.9Ghz - 512GB SSD - 8GB RAM - 1920x1080 FHD - Windows 10 Pro (Renewed)",
+        "Intialprice": "N/A",
+        "SellingPrice": "N/A",
+        "Reviews": "1",
+        "Rating": "4.5 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell Pro Briefcase 14 (PO1420C), Made with an Earth-Friendly Solution-Dyeing Process and Shock-Absorbing EVA Foam That Protects Your Laptop from Impact.",
+        "Intialprice": "$59.99",
+        "SellingPrice": "$26.98",
+        "Reviews": "128",
+        "Rating": "4.5 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell SP3022 USB Computer Speaker for PC, Laptop, Monitor, Business Conference-Mini Soundbar Speakerphone, AI Noise Echo Cancellation, Full Duplex Audio, 2 x 1.8W, MS-Teams Certified - Platinum Silver",
+        "Intialprice": "N/A",
+        "SellingPrice": "N/A",
+        "Reviews": "70",
+        "Rating": "4.5 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell Laptop Charger 65W watt AC Power Adapter(Power Supply) 19.5V 3.34A for Dell",
+        "Intialprice": "$22.00",
+        "SellingPrice": "$19.95",
+        "Reviews": "616",
+        "Rating": "4.5 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell 2023 Inspiron I5420 14 inch FHD+ Anti-Glare Laptop 12th Gen Intel 10-Core 1255U Iris Xe Graphics 32GB DDR4 1TB NVMe SSD HDMI WiFi 6E BT USB-C w/DP Backlit KB Fingerprint Windows 10 Pro",
+        "Intialprice": "N/A",
+        "SellingPrice": "N/A",
+        "Reviews": "1",
+        "Rating": "4.5 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell - Inspiron 3511 15.6\" Touch Laptop Intel Core i5 8GB Memory 256GB Solid State Drive Black",
+        "Intialprice": "N/A",
+        "SellingPrice": "$488.88",
+        "Reviews": "67",
+        "Rating": "4.5 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell 2022 Newest Inspiron 3511 Laptop, 15.6\" FHD Touchscreen, Intel Core i5-1135G7, 16GB DDR4 RAM, 512GB PCIe SSD, SD Card Reader, Webcam, HDMI, Wi-Fi, Windows 11 Home, Black",
+        "Intialprice": "$613.00",
+        "SellingPrice": "$579.00",
+        "Reviews": "136",
+        "Rating": "4.5 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell 2022 Inspiron 3000 I3515 15.6\u2033 HD Laptop AMD Quad-Core Ryzen 5 3450U 8GB DDR4 256GB NVMe SSD Radeon Vega 8 Graphics HDMI Webcam WiFi AC BT Card Reader Black Windows 10 Home",
+        "Intialprice": "N/A",
+        "SellingPrice": "$499.99",
+        "Reviews": "35",
+        "Rating": "4.5 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell 130W USB-C/USB Type C Replacement AC Adapter for Precision 5530 2in1,XPS 15 2in1 9575, DP/N 0M0H25/M0H25, 0K00F5/K00F5,Model DA130PM170,HA130PM170",
+        "Intialprice": "$50.95",
+        "SellingPrice": "$46.80",
+        "Reviews": "550",
+        "Rating": "4.5 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "PO1520CS PRO SLIM BRIEFCASE 15",
+        "Intialprice": "$39.99",
+        "SellingPrice": "$34.99",
+        "Reviews": "204",
+        "Rating": "4.5 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell G15 Gaming Laptop, 15.6\" FHD 120Hz Display, AMD Ryzen 5 6600H Up to 4.5GHz(Beat Core i7-11600H), GeForce RTX 3050, 16GB DDR5, 512GB PCIe SSD, WiFi 6, RGB Keyboard, Type-C, HDMI, Win 11 Pro",
+        "Intialprice": "N/A",
+        "SellingPrice": "N/A",
+        "Reviews": "5",
+        "Rating": "4.5 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell New Inspiron i3583 15.6\" HD Touch-Screen Laptop - Intel i5-8265U - 8GB DDR4-256GB SSD - Windows 10 - Wireless-AC - Bluetooth, SD Card Reader, HDMI & USB 3.1 -Waves MaxxAudio Pro- Black",
+        "Intialprice": "N/A",
+        "SellingPrice": "N/A",
+        "Reviews": "372",
+        "Rating": "4.5 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell 2023 XPS 13 13.4\" FHD+ (Intel 10-Core i7-1250U, 16GB LPDDR5 RAM, 512GB SSD) Thin & Light Business Laptop, 12-Hr Battery Life, Thunderbolt 4, IR Webcam, Backlit, Fingerprint, Wi-Fi 6E, Win 11 Pro",
+        "Intialprice": "N/A",
+        "SellingPrice": "$1,089.00",
+        "Reviews": "$1,089\n00",
+        "Rating": "4.5 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell Inspiron 3000 15\u201d Laptop Intel Celeron \u2013 128GB SSD+500GB HDD \u2013 8GB DDR4 \u2013 1.8GHz - Intel UHD Graphics - Windows 10 Home - Inspiron 15 3000 Series - New",
+        "Intialprice": "N/A",
+        "SellingPrice": "N/A",
+        "Reviews": "130",
+        "Rating": "4.5 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell Mobile Wireless Mouse - MS3320W, Wireless - 2.4 GHz, Bluetooth 5.0, Optical LED, Mechanical Scroll, 1600 DPI, 3-Buttons - Midnight Green",
+        "Intialprice": "N/A",
+        "SellingPrice": "$21.99",
+        "Reviews": "490",
+        "Rating": "4.5 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "DELL Alienware M15 R7 Gaming Laptop 2023 New, 15.6\" WQHD IPS 240Hz, Intel i7-12700H 14-Core, NVIDIA GeForce RTX 3060 6GB, 32GB DDR5, 1TB SSD, RGB Backlit Keyboard, Thunderbolt 4, Wi-Fi 6, Win11 Pro",
+        "Intialprice": "N/A",
+        "SellingPrice": "N/A",
+        "Reviews": "",
+        "Rating": "4.5 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "FOR DELL New Replacement Dell 65W Type -C AC Adapter for Dell Latitude 9410 2-in-1, Latitude 9510, Latitude 3410, Latitude 3510, Compatible Dell P/N:002YK0F, 0M1WCF, 0JYJNW, 0K5MD6, 9FNYW, 492-BCBI.",
+        "Intialprice": "$2.55",
+        "SellingPrice": "$25.50",
+        "Reviews": "148",
+        "Rating": "4.5 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "New Genuine Dell 45W USB-C Power AC AdapterWith Cord AA45NM150",
+        "Intialprice": "$21.98",
+        "SellingPrice": "$19.74",
+        "Reviews": "1,061",
+        "Rating": "4.5 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell Latitude 7000 7530 15.6\" Notebook - Full HD - 1920 x 1080 - Intel Core i5 12th Gen i5-1235U Deca-core (10 Core) 1.30 GHz - 8 GB Total RAM - 8 GB On-Board Memory - 256 GB SSD - Carbon Fiber - TAA",
+        "Intialprice": "N/A",
+        "SellingPrice": "$1,319.14",
+        "Reviews": "$1,319\n14",
+        "Rating": "4.5 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell Gigabit Ethernet Card",
+        "Intialprice": "N/A",
+        "SellingPrice": "$27.99",
+        "Reviews": "63",
+        "Rating": "4.5 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell Latitude 5540 15.6\" Touchscreen Notebook - Full HD - 1920 x 1080 - Intel Core i5 13th Gen i5-1345U Deca-core (10 Core) - 16 GB Total RAM - 256 GB SSD - Titan Gray",
+        "Intialprice": "N/A",
+        "SellingPrice": "$1,269.99",
+        "Reviews": "$1,269\n99",
+        "Rating": "4.5 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "NEW DELL ORIGINAL GENUINE 240-Watt 19.5V 12.31A AC POWER SUPPLY ADAPTER CHARGER",
+        "Intialprice": "$139.99",
+        "SellingPrice": "$73.00",
+        "Reviews": "50",
+        "Rating": "4.5 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell XPS 13 9315 13.4\" FHD+ (Intel 10-Core i7-1250U, 16GB LPDDR5 RAM, 512GB SSD) Thin & Light Business Laptop, Long Battery Life, Thunderbolt 4, IR Webcam, Backlit, Fingerprint, Wi-Fi 6E, Win 11 Home",
+        "Intialprice": "N/A",
+        "SellingPrice": "$1,129.99",
+        "Reviews": "9",
+        "Rating": "3.5 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell G15 5511 Gaming Laptop - 15.6 inch FHD 120Hz Display - Intel Core i7-11800H, 16GB DDR4 RAM, 512GB SSD, NVIDIA GeForce RTX 3060 6GB GDDR6, Thunderbolt, Windows 10 Home - Black",
+        "Intialprice": "$1,399.99",
+        "SellingPrice": "$1,149.99",
+        "Reviews": "103",
+        "Rating": "3.5 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell Gaming G15 5510, 15.6 Inch RTX 3060 Gaming Laptop Full HD - Intel Core i7-10870H, 16GB DDR4 RAM, 512GB SSD, NVIDIA GeForce RTX 3060 6GB GDDR6, Windows 10 Home - Grey",
+        "Intialprice": "$1,399.99",
+        "SellingPrice": "$1,178.98",
+        "Reviews": "39",
+        "Rating": "3.5 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell New Latitude 3521 Laptop - N4020-128GB SSD - 4GB RAM - w/Free pre-Installed Office Professional Software/Windows 11",
+        "Intialprice": "N/A",
+        "SellingPrice": "$479.99",
+        "Reviews": "7",
+        "Rating": "3.5 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell 65W 19.5V 3.34A Ac Adapter Charger Power Supply for Dell Latitude E6420 E6430 E6430s E6430U E6440 E6500 E6510 E6520 E6530 E6540 E7240 E7250 E7440 E7450 LA65NM130 HA65NM130",
+        "Intialprice": "N/A",
+        "SellingPrice": "$23.33",
+        "Reviews": "2,996",
+        "Rating": "3.5 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell New Laptop Charger 45W watt AC Power Adapter with Power Cord for Dell Inspiron 13 14 15,5567 5558 3558 5559,5000 Series,XPS 13 9360,LA45NM140,0KXTTW",
+        "Intialprice": "$19.99",
+        "SellingPrice": "$18.85",
+        "Reviews": "1,317",
+        "Rating": "3.5 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell Essential ES1520C Carrying Case (Briefcase) for 15\" to 15.6\" Notebook - Black",
+        "Intialprice": "$29.99",
+        "SellingPrice": "$18.99",
+        "Reviews": "46",
+        "Rating": "3.5 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell Latitude 7390 Notebook with Intel QC i7-8650U, 16GB 256GB SSD, 13.3in FHD Windows 10 pro (Renewed)",
+        "Intialprice": "N/A",
+        "SellingPrice": "N/A",
+        "Reviews": "61",
+        "Rating": "3.5 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell 2021 Inspiron 15.6\" FHD Touchscreen Laptop, AMD Ryzen 5-3450U, 8GB RAM Memory, 256GB PCIe SSD, AMD Radeon Vega 8 Graphics, Webcam, Bluetooth, Wi-Fi, HDMI, Windows 10 in S Mode",
+        "Intialprice": "N/A",
+        "SellingPrice": "N/A",
+        "Reviews": "250",
+        "Rating": "3.5 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell PA-12 65W 9RN2C Laptop AC Adapter (HA65NS5-00)",
+        "Intialprice": "N/A",
+        "SellingPrice": "$18.30",
+        "Reviews": "303",
+        "Rating": "3.5 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell Inspiron 16 2-in-1 Personal Laptop 2023 16\u201d FHD+ 1920 x 1200 Display Touchscrenn, AMD Ryzen 5 7530U AMD Radeon Graphics 16GB LPDDR4 512GB SSD Backlit Keyboard Fingerprint Windows 10 Pro",
+        "Intialprice": "N/A",
+        "SellingPrice": "N/A",
+        "Reviews": "",
+        "Rating": "3.5 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell Inspiron i7420 7000 Series 2-in-1 Laptop 2022, 14\" FHD+ Touchscreen, 10-Core 12th Intel i7-1255U, Iris Xe Graphics, 64GB DDR4 2TB SSD, Wi-Fi 6E, Backlit Keyboard, Fingerprint, Windows 11 Pro",
+        "Intialprice": "N/A",
+        "SellingPrice": "N/A",
+        "Reviews": "",
+        "Rating": "3.5 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "NEW DELL ORIGINAL GENUINE 240-Watt 19.5V 12.31A AC POWER SUPPLY ADAPTER CHARGER",
+        "Intialprice": "$77.50",
+        "SellingPrice": "$68.99",
+        "Reviews": "65",
+        "Rating": "3.5 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell E-Port Plus Advanced Port Replicator with USB 3.0 for E Series Latitudes, 130W AC",
+        "Intialprice": "N/A",
+        "SellingPrice": "$41.49",
+        "Reviews": "556",
+        "Rating": "3.5 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "2021 Dell Latitude 7420 Laptop 14 - Intel Core i7 11th Gen - i7-1185G7 - Quad Core 4.4Ghz - 512GB SSD - 32GB RAM - 1920x1080 FHD - Windows 10 Pro (Renewed)",
+        "Intialprice": "N/A",
+        "SellingPrice": "N/A",
+        "Reviews": "1",
+        "Rating": "3.5 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell Chromebook 11 3180 83C80 11.6-Inch Traditional Laptop (Black)",
+        "Intialprice": "N/A",
+        "SellingPrice": "N/A",
+        "Reviews": "350",
+        "Rating": "3.5 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell 2023 Inspiron I7620 7000 Series 2-in-1 Laptop 16\" FHD+ Touch 12-Core 12th Intel i7-1260P Iris Xe Graphics 64GB DDR4 4TB NVMe SSD HDMI Thunderbolt4 WiFi 6E Backlit KB Fingerprint Windows 11 Pro",
+        "Intialprice": "N/A",
+        "SellingPrice": "$2,149.99",
+        "Reviews": "$2,149\n99",
+        "Rating": "3.5 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Laptop Charger 130W AC Power Adapter with 3 Prong Power Cord Compatible with Dell Precision M3800 5510 5520 5530,XPS 15 9530 9550 9560 9570",
+        "Intialprice": "$60.00",
+        "SellingPrice": "$46.99",
+        "Reviews": "128",
+        "Rating": "3.5 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Genuine Original DELL 65W 19.5V 3.34A AC Power Supply Adapter Charger with Cable",
+        "Intialprice": "$20.00",
+        "SellingPrice": "$15.35",
+        "Reviews": "61",
+        "Rating": "3.5 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "DELL Latitude E6400 Intel Core2Duo 2.53Ghz Windows 7 PRO",
+        "Intialprice": "N/A",
+        "SellingPrice": "N/A",
+        "Reviews": "24",
+        "Rating": "3.5 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell XPS 17 9710, 17 inch FHD+ Laptop - Intel Core i7-11800H,16GB DDR4 RAM, 1TB SSD, NVIDIA GeForce RTX 3050 4GB GDDR6, Windows 11  Home + 1  Year Premium Support  - Platinum Silver",
+        "Intialprice": "$2,199.99",
+        "SellingPrice": "$1,950.00",
+        "Reviews": "61",
+        "Rating": "3.5 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell Inspiron 15 3000 (3593) Laptop Computer - 15.6 inch HD Anti-Glare Display (Intel Core 11th Gen i5-1035G1, 8GB, 256GB PCIe M.2 NVMe SSD, Camera) Windows 10 Home",
+        "Intialprice": "N/A",
+        "SellingPrice": "$569.00",
+        "Reviews": "161",
+        "Rating": "3.5 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell Newest Inspiron 15 3511 Laptop, 15.6\" FHD Touchscreen, Intel Core i5-1035G1, 12GB RAM, 256GB PCIe NVMe M.2 SSD, SD Card Reader, Webcam, HDMI, WiFi, Windows 11 Home, Black",
+        "Intialprice": "N/A",
+        "SellingPrice": "N/A",
+        "Reviews": "185",
+        "Rating": "3.5 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell 130-Watt 3-Prong AC Adapter with 6 ft Power Cord",
+        "Intialprice": "N/A",
+        "SellingPrice": "$25.10",
+        "Reviews": "1,419",
+        "Rating": "3.5 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell HD22Q Dual Monitor Docking Station with Wireless Charging Stand, USB-C, HDMI and DisplayPort - HD22Q",
+        "Intialprice": "$99.99",
+        "SellingPrice": "$95.00",
+        "Reviews": "18",
+        "Rating": "4.2 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Laptop Charger 65W Watt USB Type C AC Power Adapter Include Power Cord for Dell Latitude 3400 3500 5290(2in1) 5300 5400 5500 7200(2in1) 7300 7400(2in1), LA65NM170 HA65NM170,02YK0F 0M1WCF",
+        "Intialprice": "N/A",
+        "SellingPrice": "$30.64",
+        "Reviews": "206",
+        "Rating": "4.2 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell XPS 13 9305 Laptop (2020) | 13.3\" FHD Touch | Core i7 - 256GB SSD - 8GB RAM | 4 Cores @ 4.7 GHz - 11th Gen CPU (Renewed)",
+        "Intialprice": "$980.63",
+        "SellingPrice": "$657.99",
+        "Reviews": "$657\n99 New Price:\n$980.63",
+        "Rating": "4.2 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Original OEM Dell LA45NM140 KXTTW 19.5V 2.31A Notebook Ac Adapter",
+        "Intialprice": "N/A",
+        "SellingPrice": "$15.25",
+        "Reviews": "1,396",
+        "Rating": "4.2 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell AC Power Adapter 65 Watt Dell PN: G6J41, 0G6J41, MGJN9, 43NY4",
+        "Intialprice": "N/A",
+        "SellingPrice": "$22.99",
+        "Reviews": "229",
+        "Rating": "4.2 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell 2023 Inspiron I5402 14 inch FHD Non-Touch Laptop 11th Gen Intel 4-Core i5-1135G7 Iris Xe Graphics 8GB DDR4 256GB NVMe SSD WiFi AX BT 5.1 USB-C Backlit Keyboard Windows 11 Home",
+        "Intialprice": "N/A",
+        "SellingPrice": "N/A",
+        "Reviews": "",
+        "Rating": "3.7 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell Inspiron 7000 14\" FHD 2-in-1 Touchscreen Laptop | AMD Ryzen 5 5500U ( Beat i7-1165G7) | 8GB RAM | 256GB SSD | Backlit Keyboard | Windows 11 Home | Blue",
+        "Intialprice": "N/A",
+        "SellingPrice": "$642.11",
+        "Reviews": "3",
+        "Rating": "3.7 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell Latitude 3340 13.3\" Notebook - Full HD - 1920 x 1080 - Intel Core i3 13th Gen i3-1315U Hexa-core (6 Core) - 8 GB Total RAM - 8 GB On-Board Memory - 256 GB SSD - Titan Gray",
+        "Intialprice": "N/A",
+        "SellingPrice": "$739.99",
+        "Reviews": "$739\n99",
+        "Rating": "3.7 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell 74J6M Pro Stereo USB Headset, UC350, black",
+        "Intialprice": "$31.50",
+        "SellingPrice": "$27.00",
+        "Reviews": "113",
+        "Rating": "3.7 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell Latitude 5540 15.6\" Touchscreen Notebook - Full HD - 1920 x 1080 - Intel Core i7 13th Gen i7-1365U Deca-core (10 Core) - 16 GB Total RAM - 512 GB SSD - Titan Gray",
+        "Intialprice": "N/A",
+        "SellingPrice": "$1,693.89",
+        "Reviews": "$1,693\n89",
+        "Rating": "3.7 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell Inspiron 15 3000 3530 Business Laptop | 15.6\" FHD WVA Anti-Glare Multi-Touch | 13th Gen Intel 10-Core i7-1355U | 16GB DDR4 512GB SSD + 1TB HDD | Intel Iris Xe Graphic FHD Webcam HDMI Win11 Black",
+        "Intialprice": "N/A",
+        "SellingPrice": "N/A",
+        "Reviews": "",
+        "Rating": "3.0 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell Inspiron 3511 Laptop, 15.6\" FHD Touchscreen Anti-Glare Display, Intel Core i5-1135G7 Quad-Core Processor, 16GB RAM, 1TB PCIe SSD, HDMI, Wi-Fi, Webcam, Windows 11, Black",
+        "Intialprice": "N/A",
+        "SellingPrice": "$649.99",
+        "Reviews": "2",
+        "Rating": "3.0 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell Latitude 3000 3520 15.6\" Notebook - Full HD - 1920 x 1080 - Intel Core i7 11th Gen i7-1165G7 Quad-core (4 Core) 2.80 GHz - 8 GB Total RAM - 256 GB SSD - Black",
+        "Intialprice": "N/A",
+        "SellingPrice": "N/A",
+        "Reviews": "",
+        "Rating": "3.0 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell 90W Laptop Adapter [PA-3E] Dell 90W Slim Design Charger Replacement AC Power Adapter for Dell compatible Models",
+        "Intialprice": "N/A",
+        "SellingPrice": "N/A",
+        "Reviews": "114",
+        "Rating": "3.0 out of 5 stars"
+    },
+    {
+        "Brand": "Dell",
+        "Title": "Dell 2023 G16 7620 16\" 165Hz WQXGA IPS Gaming Laptop 14-Core Intel i9-12900H 64GB DDR5 2TB NVMe SSD NVIDIA GeForce RTX 3070 8GB GDDR6 HDMI Thunderbolt4 WiFi 6E RJ45 RGB Backlit KB Windows 11 Pro",
+        "Intialprice": "N/A",
+        "SellingPrice": "N/A",
+        "Reviews": "",
+        "Rating": "3.0 out of 5 stars"
+    }
+]
