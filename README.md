@@ -30,7 +30,8 @@ Additionally, we utilized MYSQL databse to perform data analytics
    
 ## Architecture Diagram
 
-<img src="architecture.jpeg">
+
+<img src="Architecture_Diagram.png">
 
 
 
