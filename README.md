@@ -10,9 +10,9 @@ This project showcases ETL tasks for web scrapped semi-structured data , includi
    brand-wise data and scraping over a given number of pages,then storing as json file with brand name.
 2. Data Lake - Uploading scraped raw data into AWS S3 data lake , where we can store any type of data structure at any scale.
 3. ETL Tasks - Transforming JSON  data into Parquet format and loading it into AWS RDS(Amazon Relational Database Service).
-4. Data base connnections - Using VPC end point connecting RDS to an on-premises MYSQL data base.
-5. Data Cleaning and Data anlaytics - Utilizing MySQL for data cleaning and conducting data analytics on discounted products.
-6. Data Visulizing - Observing data insights using Power BI.
+4. Data base connections  - Using VPC end point connecting RDS to an on-premises MYSQL data base.
+5. Data Cleaning and Data analytics - Utilizing MySQL for data cleaning and conducting data analytics on discounted products.
+6. Data Visualizing - Observing data insights using Power BI.
 
 ## Used Technologies
 
