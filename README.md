@@ -6,7 +6,7 @@ This project showcases ETL tasks for web scrapped semi-structured data , includi
 
 ## Project Goals
 
-1. Data Scrapping - Scraping laptop data from Amazon product page using Selenium open-source frame work.Autonomating the selection of 
+1. Data Scrapping - Scraping laptop data from Amazon product page using Selenium open-source frame work.Automating the selection of 
    brand-wise data and scraping over a given number of pages,then storing as json file with brand name.
 2. Data Lake - Uploading scraped raw data into AWS S3 data lake , where we can store any type of data structure at any scale.
 3. ETL Tasks - Transforming JSON  data into Parquet format and loading it into AWS RDS(Amazon Relational Database Service).
