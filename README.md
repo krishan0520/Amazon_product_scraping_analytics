@@ -2,10 +2,7 @@
 
 ## Induction
 
- This project demonstrates ETL tasks of web scrapped semi-structured data  and 
-data migration from a cloud data lake to an on-premises MYSQL data base.
-Additionally, we utilized MYSQL database to perform data analytics 
-,enabling us to get informed data insights from the dataset.
+This project showcases ETL tasks for web scrapped semi-structured data , including the migration of data from a cloud data lake to an on-premises MYSQL data base. Furthermore, we utilized MYSQL database to perform data analytics ,enabling us to get informed data insights from the dataset.
 
 ## Project Goals
 
